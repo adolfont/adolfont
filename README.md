@@ -4,7 +4,10 @@ Hi, I am an Associate Professor at the Federal University of Technology - Paran�
 
 I am also:
 - an Elxir enthusiast, member of the Erlang Ecosystem Foundation
-- podcaster 
+- podcaster
+  - [Podcast do Professor Adolfo Neto](https://anchor.fm/adolfont)
+  - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
+  - [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES)
 - and much more
 
 Follow me on Twitter: https://twitter.com/adolfont
