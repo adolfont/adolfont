@@ -1,4 +1,13 @@
-### Hi there 👋
+### Adolfo Neto, Associate Professor at UTFPR Curitiba and Elixir enthusiast
+
+Hi, I am an Associate Professor at the Federal University of Technology - Paraná (UTFPR) in Curitiba, Brazil.
+
+I am also:
+- an Elxir enthusiast, member of the Erlang Ecosystem Foundation
+- podcaster 
+- and much more
+
+Follow me on Twitter: https://twitter.com/adolfont
 
 <!--
 **adolfont/adolfont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
