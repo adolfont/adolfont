@@ -12,6 +12,9 @@ I am also:
 
 Follow me on Twitter: https://twitter.com/adolfont
 
+In 2019, I was a guest of the Elixir Mix podcast: [EMx 057: The Elixir Community with Adolfo Neto[(https://dev.to/elixirmix/emx-057-the-elixir-community-with-adolfo-neto).
+ 
+
 <!--
 **adolfont/adolfont** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
