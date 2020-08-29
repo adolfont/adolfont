@@ -3,7 +3,7 @@
 Hi, I am an Associate Professor at the Federal University of Technology - Paraná (UTFPR) in Curitiba, Brazil.
 
 I am also:
-- an Elxir enthusiast, member of the Erlang Ecosystem Foundation
+- an Elixir enthusiast, member of the Erlang Ecosystem Foundation
 - podcaster
   - [Podcast do Professor Adolfo Neto](https://anchor.fm/adolfont)
   - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
