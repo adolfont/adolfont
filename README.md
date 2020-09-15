@@ -13,6 +13,8 @@ I am also:
 Follow me on Twitter: https://twitter.com/adolfont
 
 In 2019, I was a guest of the Elixir Mix podcast: [EMx 057: The Elixir Community with Adolfo Neto](https://dev.to/elixirmix/emx-057-the-elixir-community-with-adolfo-neto).
+In 2020, I was again a guest of the Elixir Mix podcast: [EMx 106: Elixir Education with Adolfo Neto
+](https://devchat.tv/uncategorized/emx-106-elixir-education-with-adolfo-neto/).
  
 
 <!--
