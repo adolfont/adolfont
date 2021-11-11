@@ -19,8 +19,10 @@ My webpage is at [adolfont.github.io/](http://adolfont.github.io/).
 
 🔊 In 2020, I was again a guest of the Elixir Mix podcast: [EMx 106: Elixir Education with Adolfo Neto](https://devchat.tv/uncategorized/emx-106-elixir-education-with-adolfo-neto/).
 
-🔊 If you can understand Portuguese, I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto
-](https://www.rubensalomao.me/2020/07/rs-entrevista-professor-adolfo-neto.html).
+🔊 If you can understand Portuguese:
+  - I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto](https://www.rubensalomao.me/2020/07/rs-entrevista-professor-adolfo-neto.html).
+  - I was interviewed at podcast Pilha Cheia in [Ensinando Programação na Academia](https://open.spotify.com/episode/4Nvp8huz7inO0O7ogGSJkO).
+
  
 
 <!--
