@@ -15,9 +15,14 @@ Follow me on Twitter: https://twitter.com/adolfont
 
 My webpage is at [adolfont.github.io/](http://adolfont.github.io/).
 
+🔊 In 2021, I was a guest of the Elixir Wizards podcast: [Learning and Teaching Functional Programming with Adolfo Neto](https://smartlogic.io/podcast/elixir-wizards/s7e4-neto/).
+
+🔊 In 2020, I was a guest of the Elixir Mix podcast: [EMx 106: Elixir Education with Adolfo Neto](https://devchat.tv/uncategorized/emx-106-elixir-education-with-adolfo-neto/).
+
 🔊 In 2019, I was a guest of the Elixir Mix podcast: [EMx 057: The Elixir Community with Adolfo Neto](https://dev.to/elixirmix/emx-057-the-elixir-community-with-adolfo-neto).
 
-🔊 In 2020, I was again a guest of the Elixir Mix podcast: [EMx 106: Elixir Education with Adolfo Neto](https://devchat.tv/uncategorized/emx-106-elixir-education-with-adolfo-neto/).
+
+
 
 🔊 If you can understand Portuguese:
   - I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto](https://www.rubensalomao.me/2020/07/rs-entrevista-professor-adolfo-neto.html).
