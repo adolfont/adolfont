@@ -2,6 +2,19 @@
 
 Hi, I am an Associate Professor at the Federal University of Technology - Paraná (UTFPR) in Curitiba, Brazil.
 
+<p align="center">
+	<a href="https://twitter.com/adolfont">
+    <img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/adolfont">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://scholar.google.com/citations?user=R7hC3-wAAAAJ">
+    <img src="https://img.shields.io/badge/Citations-135-_.svg?style=social&logo=google-scholar" alt="Google Scholar">
+  </a>
+</p>
+
+
 I am also:
 - an Elixir enthusiast, member of the Erlang Ecosystem Foundation
 - podcaster
