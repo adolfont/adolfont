@@ -37,7 +37,7 @@ My webpage is at [adolfont.github.io/](http://adolfont.github.io/).
 
 
 🔊 If you can understand Portuguese:
-  - I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto](https://www.rubensalomao.me/2020/07/rs-entrevista-professor-adolfo-neto.html).
+  - I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto](https://www.youtube.com/watch?v=enHShUFPWIY).
   - I was interviewed at Pilha Cheia podcast  in [Ensinando Programação na Academia](https://open.spotify.com/episode/4Nvp8huz7inO0O7ogGSJkO).
 
  
