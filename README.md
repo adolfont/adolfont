@@ -18,7 +18,7 @@ I am also:
   - [Professor Adolfo Neto](https://anchor.fm/adolfont)
   - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
   - [Elixir em Foco](http://elixiremfoco.com/)
-  - [Fronteiras da Engenharia de Software](https://anchor.fm/fronteirasES)
+  - [Fronteiras da Engenharia de Software](https://fronteirases.github.io)
 - and much more
 
 Follow me on Twitter: https://twitter.com/adolfont
