@@ -19,7 +19,7 @@ I am also:
   - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
   - [Elixir em Foco](http://elixiremfoco.com/)
   - [Fronteiras da Engenharia de Software](https://fronteirases.github.io)
-- and much more
+  - [Hello, Erlang!](https://helloerlang.github.io/)
 
 Follow me on Twitter: https://twitter.com/adolfont
 
