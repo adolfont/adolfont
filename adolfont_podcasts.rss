@@ -10,9 +10,6 @@
 		</image>
 		<generator>Anchor Podcasts</generator>
 		<lastBuildDate>Wed, 28 Dec 2022 04:13:49 GMT</lastBuildDate>
-		<atom:link href="https://anchor.fm/s/4d4944e8/podcast/rss" rel="self" type="application/rss+xml"/>
-		<author><Adolfo Neto></author>
-		<copyright><Adolfo Neto></copyright>
 		<language><pt></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:summary>Elixir em Foco é um podcast em que conversamos com pessoas da comunidade brasileira de desenvolvedores de software sobre a linguagem de programação Elixir
