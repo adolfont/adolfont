@@ -2,32 +2,103 @@
 <rss version="2.0"
     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Dafna's Zebra Podcast</title>
+    <title>Todos os podcasts de Adolfo Neto</title>
     <itunes:owner>
-        <itunes:email>dafna@example.com</itunes:email>
+        <itunes:email>adolfo.usp@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:author>Dafna</itunes:author>
-    <description>A pet-owner's guide to the popular striped equine.</description>
-    <itunes:image href="https://www.example.com/podcasts/dafnas-zebras/img/dafna-zebra-pod-logo.jpg"/>
+    <itunes:author>Adolfo Neto</itunes:author>
+    <description>Professor da UTFPR.</description>
+    <itunes:image href="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg"/>
     <language>en-us</language>
-    <link>https://www.example.com/podcasts/dafnas-zebras/</link>
-    <item>
-      <title>Top 10 myths about caring for a zebra</title>
-      <description>Here are the top 10 misunderstandings about the care, feeding, and breeding of these lovable striped animals.</description>
-      <pubDate>Tue, 14 Mar 2017 12:00:00 GMT</pubDate>
-      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/toptenmyths.mp3"
-                 type="audio/mpeg" length="34216300"/>
-      <itunes:duration>30:00</itunes:duration>
-      <guid isPermaLink="false">dzpodtop10</guid>
-    </item>
-    <item>
-      <title>Keeping those stripes neat and clean</title>
-      <description>Keeping your zebra clean is time consuming, but worth the effort.</description>
-      <pubDate>Fri, 24 Feb 2017 12:00:00 GMT</pubDate>
-      <enclosure url="https://www.example.com/podcasts/dafnas-zebras/audio/cleanstripes.mp3"
-                 type="audio/mpeg" length="26004388"/>
-      <itunes:duration>22:48</itunes:duration>
-      <guid>dzpodclean</guid>
-    </item>
+    <link>https://adolfont.github.io/</link>
+		<item>
+			<title><![CDATA[Estudos Secundários em Engenharia de Software, com Katia Felizardo (UTFPR) - retransmissão Fronteiras da Engenharia de Software]]></title>
+			<description><![CDATA[<p>Este episódio foi originalmente publicado no podcast Fronteiras da Engenharia de Software em <a href="https://anchor.fm/fronteirases/episodes/25-Estudos-Secundrios-em-Engenharia-de-Software--com-Katia-Felizardo-UTFPR-e1k0fhg">https://anchor.fm/fronteirases/episodes/25-Estudos-Secundrios-em-Engenharia-de-Software--com-Katia-Felizardo-UTFPR-e1k0fhg</a>.&nbsp;</p>
+<p>Resumo do episódio:</p>
+<p>"Conversamos com Katia Felizardo, professora na Universidade Tecnológica Federal do Paraná (UTFPR), Campus Cornélio Procópio.</p>
+<p>Site da Katia:</p>
+<ul>
+ <li>Scholar: <a href="https://scholar.google.com/citations?user=YByP4IQAAAAJ&amp;hl=pt-BR&amp;oi=ao"><u>https://scholar.google.com/citations?user=YByP4IQAAAAJ&amp;hl=pt-BR&amp;oi=ao</u></a></li>
+ <li>DBLP: <a href="https://dblp.org/pid/53/8384.html"><u>https://dblp.org/pid/53/8384.html</u></a></li>
+</ul>
+<p>Links Citados:</p>
+<ul>
+  <li>Katia Romero Felizardo: Estudo secundário - O que é? Por que e como fazer? Quando e como atualizar? <a href="https://youtu.be/JRMp29aUMRI">https://youtu.be/JRMp29aUMRI</a></li>
+  <li>Revisão Sistemática da Literatura em Engenharia de Software: Teoria e Prática <a href="https://www.amazon.com.br/Revis%C3%A3o-Sistem%C3%A1tica-Literatura-Engenharia-Software/dp/8535286411/"><u>https://www.amazon.com.br/Revis%C3%A3o-Sistem%C3%A1tica-Literatura-Engenharia-Software/dp/8535286411/</u></a></li>
+  <li>Almanaques sobre RS e MS, que foram desenvolvidos em parceria com a profa. Maria Augusta Nunes, Ícaro Dantas Silva, Elisa Yumi Nakagawa, Fabiano Cutigi Ferrari, Sandra Camargo Pinto Ferraz Fabbri e o ilustrador Humberto Júnior.
+    <ul>
+      <li><a href="http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V7.pdf"><u>http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V7.pdf</u></a></li>
+      <li><a href="http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V8.pdf"><u>http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V8.pdf</u></a></li>
+      <li><a href="http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V9.pdf"><u>http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V9.pdf</u></a></li>
+      <li><a href="http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V10.pdf"><u>http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V10.pdf</u></a></li>
+    </ul>
+  </li>
+</ul>
+<p>Artigos mencionados: <a href="https://gist.github.com/adolfont/348c40b82744f419a30e3310cfbabf99"><u>https://gist.github.com/adolfont/348c40b82744f419a30e3310cfbabf99</u></a></p>
+<p>Nossa equipe é formada por:</p>
+<ul>
+  <li>Leonardo Fernandes (IFAL);</li>
+  <li>Fabio Petrillo (École de Technologie Supérieure);</li>
+  <li>Danilo Monteiro (Zup Innovation);</li>
+  <li>Adolfo Gustavo Serra Seca Neto (UTFPR) - co-host deste episódio;</li>
+  <li>Myrian Rodrigues da Silva (USES/UFAM)</li>
+  <li>Italo Santos</li>
+  <li>Diego Andrade</li>
+</ul>
+<p>Nosso site é<a href="https://www.google.com/url?q=https://fronteirases.github.io/&amp;sa=D&amp;source=editors&amp;ust=1655328376940629&amp;usg=AOvVaw1sYiLMCW51Wm9LgGKqbrWA"> </a><a href="https://www.google.com/url?q=https://fronteirases.github.io/&amp;sa=D&amp;source=editors&amp;ust=1655328376940800&amp;usg=AOvVaw0zuMAOhuMRaXvcDSNyw986"><u>https://fronteirases.github.io/</u></a>."</p>
+<p><br></p>
+<p>O Emílias Podcast é um projeto de extensão da UTFPR Curitiba. Descubra tudo sobre o programa Emílias - Armação em Bits em<a href="https://linktr.ee/Emilias"><u> https://linktr.ee/Emilias</u></a>. &nbsp;#PODCAST #EMILIAS</p>
+<p><br></p>
+<p><br></p>
+]]></description>
+			<link>https://anchor.fm/emilias-podcast/episodes/Estudos-Secundrios-em-Engenharia-de-Software--com-Katia-Felizardo-UTFPR---retransmisso-Fronteiras-da-Engenharia-de-Software-e1rp94c</link>
+			<guid isPermaLink="false">cb9f5597-6704-41d1-be5d-d93bbf626bbe</guid>
+			<dc:creator><![CDATA[Emílias - Armação em Bits (UTFPR Curitiba)]]></dc:creator>
+			<pubDate>Thu, 29 Dec 2022 03:00:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/820ceb8/podcast/play/61694540/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F820ceb8%2F61694540%2Fcdd937d6f109e2a5a39012e1801c266f.m4a" length="53776385" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Este episódio foi originalmente publicado no podcast Fronteiras da Engenharia de Software em &lt;a href=&quot;https://anchor.fm/fronteirases/episodes/25-Estudos-Secundrios-em-Engenharia-de-Software--com-Katia-Felizardo-UTFPR-e1k0fhg&quot;&gt;https://anchor.fm/fronteirases/episodes/25-Estudos-Secundrios-em-Engenharia-de-Software--com-Katia-Felizardo-UTFPR-e1k0fhg&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Resumo do episódio:&lt;/p&gt;
+&lt;p&gt;&quot;Conversamos com Katia Felizardo, professora na Universidade Tecnológica Federal do Paraná (UTFPR), Campus Cornélio Procópio.&lt;/p&gt;
+&lt;p&gt;Site da Katia:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Scholar: &lt;a href=&quot;https://scholar.google.com/citations?user=YByP4IQAAAAJ&amp;amp;hl=pt-BR&amp;amp;oi=ao&quot;&gt;&lt;u&gt;https://scholar.google.com/citations?user=YByP4IQAAAAJ&amp;amp;hl=pt-BR&amp;amp;oi=ao&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;DBLP: &lt;a href=&quot;https://dblp.org/pid/53/8384.html&quot;&gt;&lt;u&gt;https://dblp.org/pid/53/8384.html&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links Citados:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Katia Romero Felizardo: Estudo secundário - O que é? Por que e como fazer? Quando e como atualizar? &lt;a href=&quot;https://youtu.be/JRMp29aUMRI&quot;&gt;https://youtu.be/JRMp29aUMRI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Revisão Sistemática da Literatura em Engenharia de Software: Teoria e Prática &lt;a href=&quot;https://www.amazon.com.br/Revis%C3%A3o-Sistem%C3%A1tica-Literatura-Engenharia-Software/dp/8535286411/&quot;&gt;&lt;u&gt;https://www.amazon.com.br/Revis%C3%A3o-Sistem%C3%A1tica-Literatura-Engenharia-Software/dp/8535286411/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Almanaques sobre RS e MS, que foram desenvolvidos em parceria com a profa. Maria Augusta Nunes, Ícaro Dantas Silva, Elisa Yumi Nakagawa, Fabiano Cutigi Ferrari, Sandra Camargo Pinto Ferraz Fabbri e o ilustrador Humberto Júnior.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V7.pdf&quot;&gt;&lt;u&gt;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V7.pdf&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V8.pdf&quot;&gt;&lt;u&gt;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V8.pdf&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V9.pdf&quot;&gt;&lt;u&gt;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V9.pdf&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V10.pdf&quot;&gt;&lt;u&gt;http://almanaquesdacomputacao.com.br/gutanunes/publications/S6V10.pdf&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Artigos mencionados: &lt;a href=&quot;https://gist.github.com/adolfont/348c40b82744f419a30e3310cfbabf99&quot;&gt;&lt;u&gt;https://gist.github.com/adolfont/348c40b82744f419a30e3310cfbabf99&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nossa equipe é formada por:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leonardo Fernandes (IFAL);&lt;/li&gt;
+  &lt;li&gt;Fabio Petrillo (École de Technologie Supérieure);&lt;/li&gt;
+  &lt;li&gt;Danilo Monteiro (Zup Innovation);&lt;/li&gt;
+  &lt;li&gt;Adolfo Gustavo Serra Seca Neto (UTFPR) - co-host deste episódio;&lt;/li&gt;
+  &lt;li&gt;Myrian Rodrigues da Silva (USES/UFAM)&lt;/li&gt;
+  &lt;li&gt;Italo Santos&lt;/li&gt;
+  &lt;li&gt;Diego Andrade&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nosso site é&lt;a href=&quot;https://www.google.com/url?q=https://fronteirases.github.io/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1655328376940629&amp;amp;usg=AOvVaw1sYiLMCW51Wm9LgGKqbrWA&quot;&gt; &lt;/a&gt;&lt;a href=&quot;https://www.google.com/url?q=https://fronteirases.github.io/&amp;amp;sa=D&amp;amp;source=editors&amp;amp;ust=1655328376940800&amp;amp;usg=AOvVaw0zuMAOhuMRaXvcDSNyw986&quot;&gt;&lt;u&gt;https://fronteirases.github.io/&lt;/u&gt;&lt;/a&gt;.&quot;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;O Emílias Podcast é um projeto de extensão da UTFPR Curitiba. Descubra tudo sobre o programa Emílias - Armação em Bits em&lt;a href=&quot;https://linktr.ee/Emilias&quot;&gt;&lt;u&gt; https://linktr.ee/Emilias&lt;/u&gt;&lt;/a&gt;. &amp;nbsp;#PODCAST #EMILIAS&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:25</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1263678/1263678-1670248300042-1315d9c1dff84.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+
   </channel>
 </rss>
