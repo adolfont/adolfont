@@ -99,6 +99,1620 @@
 			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/1263678/1263678-1670248300042-1315d9c1dff84.jpg"/>
 			<itunes:episodeType>bonus</itunes:episodeType>
 		</item>
+	  
+	  
+	  <!--- ELIXIR EM FOCO -->
+	  
+	  		<item>
+			<title><![CDATA[21. TLA+ e Elixir com Gabriela Moreira, Engenheira de Pesquisa na Informal Systems, Mestre em Computação pela UDESC]]></title>
+			<description><![CDATA[<p>Neste episódio conversamos com Gabriela Moreira, Engenheira de Pesquisa na Informal Systems, Mestre em Computação pela UDESC.</p>
+<p>Links Gabriela:</p>
+<ul>
+ <li>Twitter <a href="https://twitter.com/bugarela"><u>https://twitter.com/bugarela</u></a></li>
+ <li>GitHub <a href="https://github.com/bugarela/"><u>https://github.com/bugarela/</u></a></li>
+  <li>Linkedin <a href="https://www.linkedin.com/in/bugarela/"><u>https://www.linkedin.com/in/bugarela/</u></a></li>
+</ul>
+<p><em>Assista a esta entrevista no YouTube em </em><a href="https://www.youtube.com/@ElixirEmFoco"><em>https://www.youtube.com/@ElixirEmFoco</em></a></p>
+<p><strong>Ela conversou &nbsp;conosco sobre:</strong></p>
+<ul>
+  <li><strong>o que é TLA+</strong></li>
+  <li><strong>como foram feitos seus trabalhos que juntaram TLA+ e Elixir</strong></li>
+  <li><strong>como é trabalhar como Engenheira de Pesquisa</strong></li>
+  <li><strong>como foi fazer mestrado</strong></li>
+</ul>
+<p>Links:</p>
+<ul>
+  <li>Colóquios de Ciência da Computação <a href="https://www.youtube.com/@ColoquiosdeCienciadaComputacao"><u>https://www.youtube.com/@ColoquiosdeCienciadaComputacao</u></a></li>
+  <li>Palestra “Elixir”, de Paulo Henrique Cuchi (08/11/2017) – 55 visualizações <a href="https://www.youtube.com/watch?v=okk-da7DESs"><u>https://www.youtube.com/watch?v=okk-da7DESs</u></a></li>
+  <li>TLA+ Transmutation - Elixir code and test generation from TLA+ specifications <a href="https://github.com/bugarela/tla-transmutation"><u>https://github.com/bugarela/tla-transmutation</u></a></li>
+  <li>Informal Systems <a href="https://informal.systems/"><u>https://informal.systems/</u></a> <a href="https://github.com/informalsystems"><u>https://github.com/informalsystems</u></a></li>
+  <li>Keynote: Formal Verification? No, Formal Reasoning! | Marianne Bellotti | Code BEAM America 2022 <a href="https://www.youtube.com/watch?v=FxDm8VP2-zs"><u>https://www.youtube.com/watch?v=FxDm8VP2-zs</u></a></li>
+  <li>Elixir Code Generation from TLA + specifications - Gabriela Moreira Mafra <a href="https://www.youtube.com/watch?v=trm9Lp0yt6Y"><u>https://www.youtube.com/watch?v=trm9Lp0yt6Y</u></a></li>
+  <li>Pesquise com Elixir &nbsp;<a href="https://pesquisecomelixir.com.br/"><u>https://pesquisecomelixir.com.br/</u></a></li>
+  <li>Fully-Tested code generation from TLA+ specifications <a href="https://sol.sbc.org.br/index.php/sast/article/view/22179"><u>https://sol.sbc.org.br/index.php/sast/article/view/22179</u></a></li>
+</ul>
+<p><strong>Associe-se à Erlang Ecosystem Foundation em</strong><a href="https://bit.ly/3Sl8XTO"><u><strong> https://bit.ly/3Sl8XTO</strong></u></a><strong>. O site da fundação é</strong><a href="https://bit.ly/3Jma95g"><u><strong> https://bit.ly/3Jma95g</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><u><strong> https://elixiremfoco.com</strong></u></a><strong>. Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><u><strong> https://twitter.com/elixiremfoco</strong></u></a><strong>. Nosso email é elixiremfoco@gmail.com.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/21--TLA-e-Elixir-com-Gabriela-Moreira--Engenheira-de-Pesquisa-na-Informal-Systems--Mestre-em-Computao-pela-UDESC-e1rl1tr</link>
+			<guid isPermaLink="false">c746bebb-572d-4e32-b096-78f46e5cd7ef</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 07 Dec 2022 03:00:44 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/61556091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F61556091%2F91433a3092b0236d7eca9b63a547d8f5.m4a" length="53925522" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Neste episódio conversamos com Gabriela Moreira, Engenheira de Pesquisa na Informal Systems, Mestre em Computação pela UDESC.&lt;/p&gt;
+&lt;p&gt;Links Gabriela:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter &lt;a href=&quot;https://twitter.com/bugarela&quot;&gt;&lt;u&gt;https://twitter.com/bugarela&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;GitHub &lt;a href=&quot;https://github.com/bugarela/&quot;&gt;&lt;u&gt;https://github.com/bugarela/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin &lt;a href=&quot;https://www.linkedin.com/in/bugarela/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/bugarela/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Assista a esta entrevista no YouTube em &lt;/em&gt;&lt;a href=&quot;https://www.youtube.com/@ElixirEmFoco&quot;&gt;&lt;em&gt;https://www.youtube.com/@ElixirEmFoco&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ela conversou &amp;nbsp;conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;o que é TLA+&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como foram feitos seus trabalhos que juntaram TLA+ e Elixir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como é trabalhar como Engenheira de Pesquisa&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como foi fazer mestrado&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Colóquios de Ciência da Computação &lt;a href=&quot;https://www.youtube.com/@ColoquiosdeCienciadaComputacao&quot;&gt;&lt;u&gt;https://www.youtube.com/@ColoquiosdeCienciadaComputacao&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Palestra “Elixir”, de Paulo Henrique Cuchi (08/11/2017) – 55 visualizações &lt;a href=&quot;https://www.youtube.com/watch?v=okk-da7DESs&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=okk-da7DESs&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TLA+ Transmutation - Elixir code and test generation from TLA+ specifications &lt;a href=&quot;https://github.com/bugarela/tla-transmutation&quot;&gt;&lt;u&gt;https://github.com/bugarela/tla-transmutation&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Informal Systems &lt;a href=&quot;https://informal.systems/&quot;&gt;&lt;u&gt;https://informal.systems/&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://github.com/informalsystems&quot;&gt;&lt;u&gt;https://github.com/informalsystems&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Keynote: Formal Verification? No, Formal Reasoning! | Marianne Bellotti | Code BEAM America 2022 &lt;a href=&quot;https://www.youtube.com/watch?v=FxDm8VP2-zs&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=FxDm8VP2-zs&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Code Generation from TLA + specifications - Gabriela Moreira Mafra &lt;a href=&quot;https://www.youtube.com/watch?v=trm9Lp0yt6Y&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=trm9Lp0yt6Y&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Pesquise com Elixir &amp;nbsp;&lt;a href=&quot;https://pesquisecomelixir.com.br/&quot;&gt;&lt;u&gt;https://pesquisecomelixir.com.br/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Fully-Tested code generation from TLA+ specifications &lt;a href=&quot;https://sol.sbc.org.br/index.php/sast/article/view/22179&quot;&gt;&lt;u&gt;https://sol.sbc.org.br/index.php/sast/article/view/22179&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Associe-se à Erlang Ecosystem Foundation em&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Sl8XTO&quot;&gt;&lt;u&gt;&lt;strong&gt; https://bit.ly/3Sl8XTO&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. O site da fundação é&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Jma95g&quot;&gt;&lt;u&gt;&lt;strong&gt; https://bit.ly/3Jma95g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;&lt;strong&gt; https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;&lt;strong&gt; https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Nosso email é elixiremfoco@gmail.com.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:34</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12866474/12866474-1614898273212-e4a057b2d5a0e.jpg"/>
+			<itunes:episode>21</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[20. Transição de carreira para Elixir, com Julia Mathias, Engenheira de Software na Hightop]]></title>
+			<description><![CDATA[<p>Neste episódio conversamos com Julia Mathias, Engenheira de Software na Hightop <a href="https://www.linkedin.com/in/thejuliamathias/">https://www.linkedin.com/in/thejuliamathias/</a> <a href="https://twitter.com/thejuliams">https://twitter.com/thejuliams</a>.</p>
+<p>Assista a esta entrevista no YouTube em&nbsp;<a href="https://youtu.be/rw15ntNNEjI">https://youtu.be/rw15ntNNEjI</a>.</p>
+<p><strong>Ela conversou &nbsp;conosco sobre:</strong></p>
+<ul>
+ <li><strong>como entrou na área de tecnologia através de um bootcamp</strong></li>
+ <li><strong>como descobriu Elixir</strong></li>
+  <li><strong>como passou a trabalhar para uma empresa dos EUA</strong></li>
+  <li><strong>que bibliotecas de Elixir está aprendendo</strong></li>
+  <li><strong>quais as principais diferenças e desafios de se trabalhar para uma empresa do exterior</strong></li>
+  <li><strong>como foi ter sido &nbsp;community manager</strong></li>
+</ul>
+<p>Links:</p>
+<ul>
+  <li>Infância <a href="https://www.youtube.com/watch?v=u-lDCKTkiEo"><u>https://www.youtube.com/watch?v=u-lDCKTkiEo</u></a></li>
+  <li>Dropping out of college to attend a bootcamp, migrating from Ruby to Elixir, and managing life with ADHD. <a href="https://open.spotify.com/episode/6Mzo92UOG9b0NCLoWjtLy2?si=krHOhFnMS6Wh5odmLpbPCQ&amp;utm_source=copy-link&amp;dl_branch=1&amp;nd=1"><u>https://open.spotify.com/episode/6Mzo92UOG9b0NCLoWjtLy2?si=krHOhFnMS6Wh5odmLpbPCQ&amp;utm_source=copy-link&amp;dl_branch=1&amp;nd=1</u></a></li>
+  <li>Conheça Julia: de designer a Software Developer <a href="https://www.lewagon.com/pt-BR/blog/alumni-stories-julia-mathias"><u>https://www.lewagon.com/pt-BR/blog/alumni-stories-julia-mathias</u></a></li>
+  <li>Aprendendo A Programar Em Casa Com Le Wagon <a href="https://www.lewagon.com/pt-BR/blog/participarbootcampremoto"><u>https://www.lewagon.com/pt-BR/blog/participarbootcampremoto</u></a></li>
+</ul>
+<p><strong>Associe-se à Erlang Ecosystem Foundation em</strong><a href="https://bit.ly/3Sl8XTO"><u><strong> https://bit.ly/3Sl8XTO</strong></u></a><strong>. O site da fundação é</strong><a href="https://bit.ly/3Jma95g"><u><strong> https://bit.ly/3Jma95g</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><u><strong> https://elixiremfoco.com</strong></u></a><strong>. Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><u><strong> https://twitter.com/elixiremfoco</strong></u></a><strong>. Nosso email é elixiremfoco@gmail.com.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/20--Transio-de-carreira-para-Elixir--com-Julia-Mathias--Engenheira-de-Software-na-Hightop-e1pnrkv</link>
+			<guid isPermaLink="false">b58f3f47-605a-48c1-afbe-0e64f467a012</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 26 Oct 2022 03:13:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/59550815/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F59550815%2F701706b0936b9f88e5d190fdc7829b31.m4a" length="31006363" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Neste episódio conversamos com Julia Mathias, Engenheira de Software na Hightop &lt;a href=&quot;https://www.linkedin.com/in/thejuliamathias/&quot;&gt;https://www.linkedin.com/in/thejuliamathias/&lt;/a&gt; &lt;a href=&quot;https://twitter.com/thejuliams&quot;&gt;https://twitter.com/thejuliams&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Assista a esta entrevista no YouTube em&amp;nbsp;&lt;a href=&quot;https://youtu.be/rw15ntNNEjI&quot;&gt;https://youtu.be/rw15ntNNEjI&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ela conversou &amp;nbsp;conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;como entrou na área de tecnologia através de um bootcamp&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;como descobriu Elixir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como passou a trabalhar para uma empresa dos EUA&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;que bibliotecas de Elixir está aprendendo&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;quais as principais diferenças e desafios de se trabalhar para uma empresa do exterior&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como foi ter sido &amp;nbsp;community manager&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Infância &lt;a href=&quot;https://www.youtube.com/watch?v=u-lDCKTkiEo&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=u-lDCKTkiEo&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dropping out of college to attend a bootcamp, migrating from Ruby to Elixir, and managing life with ADHD. &lt;a href=&quot;https://open.spotify.com/episode/6Mzo92UOG9b0NCLoWjtLy2?si=krHOhFnMS6Wh5odmLpbPCQ&amp;amp;utm_source=copy-link&amp;amp;dl_branch=1&amp;amp;nd=1&quot;&gt;&lt;u&gt;https://open.spotify.com/episode/6Mzo92UOG9b0NCLoWjtLy2?si=krHOhFnMS6Wh5odmLpbPCQ&amp;amp;utm_source=copy-link&amp;amp;dl_branch=1&amp;amp;nd=1&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Conheça Julia: de designer a Software Developer &lt;a href=&quot;https://www.lewagon.com/pt-BR/blog/alumni-stories-julia-mathias&quot;&gt;&lt;u&gt;https://www.lewagon.com/pt-BR/blog/alumni-stories-julia-mathias&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Aprendendo A Programar Em Casa Com Le Wagon &lt;a href=&quot;https://www.lewagon.com/pt-BR/blog/participarbootcampremoto&quot;&gt;&lt;u&gt;https://www.lewagon.com/pt-BR/blog/participarbootcampremoto&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Associe-se à Erlang Ecosystem Foundation em&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Sl8XTO&quot;&gt;&lt;u&gt;&lt;strong&gt; https://bit.ly/3Sl8XTO&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. O site da fundação é&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Jma95g&quot;&gt;&lt;u&gt;&lt;strong&gt; https://bit.ly/3Jma95g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;&lt;strong&gt; https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;&lt;strong&gt; https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Nosso email é elixiremfoco@gmail.com.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:57</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1666703991628-a8249bb2e400d.jpg"/>
+			<itunes:episode>20</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[19. Aprendizado e Comunidade, com Bianca Cesarino e Fernanda Bernardo (Cumbuca)]]></title>
+			<description><![CDATA[<p>Neste episódio conversamos com duas pessoas da <a href="https://www.cumbuca.com/"><u>Cumbuca</u></a>:</p>
+<ul>
+ <li>Bianca Cesarino, desenvolvedora de software júnior <a href="https://www.linkedin.com/in/binaks/"><u>https://www.linkedin.com/in/binaks/</u></a></li>
+ <li>Fernanda Bernardo, líder da área de Pessoas e Comunidade &nbsp;<a href="https://www.linkedin.com/in/fernandabernardo/"><u>https://www.linkedin.com/in/fernandabernardo/</u></a> <a href="https://twitter.com/fembernardo"><u>https://twitter.com/fembernardo</u></a></li>
+</ul>
+<p>Assista a esta entrevista no YouTube em<a href="https://youtu.be/rowXHeg_Fuo"><u>https://youtu.be/rowXHeg_Fuo</u></a>.</p>
+<p><strong>Elas conversaram conosco sobre:</strong></p>
+<ul>
+  <li><strong>como Bianca conheceu o Elixir</strong></li>
+  <li><strong>como Fernanda migrou do desenvolvimento para a área de pessoas e comunidade</strong></li>
+  <li><strong>como Bianca tem aprendido Elixir</strong></li>
+  <li><strong>o que Bianca acha da inclusão na comunidade Elixir</strong></li>
+  <li><strong>o que Fernanda acha da importância das comunidades</strong></li>
+  <li><strong>como a Cumbuca tenta manter seus talentos</strong></li>
+</ul>
+<p>Links:</p>
+<ul>
+  <li>Programming Elixir 1.6 Dave Thomas <a href="https://pragprog.com/titles/elixir16/programming-elixir-1-6/"><u>https://pragprog.com/titles/elixir16/programming-elixir-1-6/</u></a></li>
+  <li>Elixir Lab <a href="https://elixirlab.org/"><u>https://elixirlab.org/</u></a></li>
+</ul>
+<p><strong>Associe-se à Erlang Ecosystem Foundation em</strong><a href="https://bit.ly/3Sl8XTO"><u><strong> https://bit.ly/3Sl8XTO</strong></u></a><strong>. O site da fundação é</strong><a href="https://bit.ly/3Jma95g"><u><strong> https://bit.ly/3Jma95g</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><u><strong> https://elixiremfoco.com</strong></u></a><strong>. Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><u><strong> https://twitter.com/elixiremfoco</strong></u></a><strong>. Nosso email é elixiremfoco@gmail.com.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/19--Aprendizado-e-Comunidade--com-Bianca-Cesarino-e-Fernanda-Bernardo-Cumbuca-e1of8ad</link>
+			<guid isPermaLink="false">de4cc9d4-fd0e-448a-a5ed-642a61bd1a43</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 05 Oct 2022 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/58220301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F58220301%2Ff55843b9f94b14de1c5170f7f34e39aa.m4a" length="53602087" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Neste episódio conversamos com duas pessoas da &lt;a href=&quot;https://www.cumbuca.com/&quot;&gt;&lt;u&gt;Cumbuca&lt;/u&gt;&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Bianca Cesarino, desenvolvedora de software júnior &lt;a href=&quot;https://www.linkedin.com/in/binaks/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/binaks/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Fernanda Bernardo, líder da área de Pessoas e Comunidade &amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/in/fernandabernardo/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/fernandabernardo/&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://twitter.com/fembernardo&quot;&gt;&lt;u&gt;https://twitter.com/fembernardo&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Assista a esta entrevista no YouTube em&lt;a href=&quot;https://youtu.be/rowXHeg_Fuo&quot;&gt;&lt;u&gt;https://youtu.be/rowXHeg_Fuo&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elas conversaram conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;como Bianca conheceu o Elixir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como Fernanda migrou do desenvolvimento para a área de pessoas e comunidade&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como Bianca tem aprendido Elixir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;o que Bianca acha da inclusão na comunidade Elixir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;o que Fernanda acha da importância das comunidades&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como a Cumbuca tenta manter seus talentos&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Programming Elixir 1.6 Dave Thomas &lt;a href=&quot;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&quot;&gt;&lt;u&gt;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Lab &lt;a href=&quot;https://elixirlab.org/&quot;&gt;&lt;u&gt;https://elixirlab.org/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Associe-se à Erlang Ecosystem Foundation em&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Sl8XTO&quot;&gt;&lt;u&gt;&lt;strong&gt; https://bit.ly/3Sl8XTO&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. O site da fundação é&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Jma95g&quot;&gt;&lt;u&gt;&lt;strong&gt; https://bit.ly/3Jma95g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;&lt;strong&gt; https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;&lt;strong&gt; https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Nosso email é elixiremfoco@gmail.com.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:55:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1664311925154-7d88970c6b773.jpg"/>
+			<itunes:episode>19</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[18. Giorgio Torres, Desenvolvedor Elixir]]></title>
+			<description><![CDATA[<p>Giorgio Torres no Twitter<a href="https://twitter.com/ulissesalmeida"> </a><a href="https://twitter.com/lu_gico"><u>https://twitter.com/lu_gico</u></a></p>
+<p>LinkedIn do Giorgio <a href="https://bit.ly/3BdhfH4"><u>https://bit.ly/3BdhfH4</u></a></p>
+<p>Assista a esta entrevista no YouTube em <a href="https://youtu.be/8XM7j7Ojrnc"><u>https://youtu.be/8XM7j7Ojrnc</u></a>.</p>
+<p><strong>Ele conversou conosco sobre:</strong></p>
+<ul>
+ <li><strong>como conheceu o Elixir e quando passou a usá-lo em produção</strong></li>
+ <li><strong>sua migração (em andamento) para o exterior</strong></li>
+  <li><strong>sobre o RabbitMQ Expert Training da Erlang Solutions.</strong></li>
+  <li><strong>sobre o curso de OTP da Groxio com Bruce Tate</strong></li>
+  <li><strong>como foi seu processo de aprendizado de Elixir</strong></li>
+  <li><strong>como surgiu seu interesse por Scrum e qual é sua opinião sobre métodos ágeis no desenvolvimento de software</strong></li>
+  <li><strong>como conheceu o podcast e como tem sido essa experiência com as traduções</strong></li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+  <li>Designing Elixir Systems with OTP <a href="https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/"><u>https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/</u></a></li>
+  <li>Curso de OTP da Groxio <a href="https://grox.io/language/otp/course"><u>https://grox.io/language/otp/course</u></a></li>
+  <li>Site da linguagem <a href="https://elixir-lang.org/"><u>https://elixir-lang.org/</u></a></li>
+  <li>Começando com a linguagem <a href="https://elixir-lang.org/getting-started/introduction.html"><u>https://elixir-lang.org/getting-started/introduction.html</u></a></li>
+  <li>Elixir in Action, Saša Jurić <a href="https://www.manning.com/books/elixir-in-action-second-edition"><u>https://www.manning.com/books/elixir-in-action-second-edition</u></a></li>
+  <li>Elixir e Rafael Camarda <a href="https://www.youtube.com/watch?v=xetZrpLtF9A"><u>https://www.youtube.com/watch?v=xetZrpLtF9A</u></a> <a href="https://twitter.com/rafacamarda"><u>https://twitter.com/rafacamarda</u></a> <a href="https://www.instagram.com/rafacamarda"><u>https://www.instagram.com/rafacamarda</u></a></li>
+  <li>Curso de Elixir do Prag Dave Thomas <a href="https://codestool.coding-gnome.com/courses/elixir-for-programmers-2"><u>https://codestool.coding-gnome.com/courses/elixir-for-programmers-2</u></a></li>
+  <li>Agile as a full-featured religious dogma <a href="https://elixirforum.com/t/agile-as-a-full-featured-religious-dogma/27394"><u>https://elixirforum.com/t/agile-as-a-full-featured-religious-dogma/27394</u></a></li>
+  <li>“Scrum is fragile, not agile” (blog) <a href="https://elixirforum.com/t/scrum-is-fragile-not-agile-blog/22733"><u>https://elixirforum.com/t/scrum-is-fragile-not-agile-blog/22733</u></a></li>
+</ul>
+<p><strong>Associe-se à Erlang Ecosystem Foundation em</strong><a href="https://bit.ly/3Sl8XTO"><strong> </strong><u><strong>https://bit.ly/3Sl8XTO</strong></u></a><strong>. O site da fundação é</strong><a href="https://bit.ly/3Jma95g"><strong> </strong><u><strong>https://bit.ly/3Jma95g</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><strong> </strong><u><strong>https://elixiremfoco.com</strong></u></a><strong>. Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><strong> </strong><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>. Nosso email é elixiremfoco@gmail.com.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/18--Giorgio-Torres--Desenvolvedor-Elixir-e1naaaa</link>
+			<guid isPermaLink="false">480bd64b-abed-4506-82ec-4cedf07f5d3c</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Tue, 06 Sep 2022 03:00:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/57009930/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F57009930%2F31dd1fea86023730ab357a8577cfabb2.m4a" length="65354011" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Giorgio Torres no Twitter&lt;a href=&quot;https://twitter.com/ulissesalmeida&quot;&gt; &lt;/a&gt;&lt;a href=&quot;https://twitter.com/lu_gico&quot;&gt;&lt;u&gt;https://twitter.com/lu_gico&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn do Giorgio &lt;a href=&quot;https://bit.ly/3BdhfH4&quot;&gt;&lt;u&gt;https://bit.ly/3BdhfH4&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Assista a esta entrevista no YouTube em &lt;a href=&quot;https://youtu.be/8XM7j7Ojrnc&quot;&gt;&lt;u&gt;https://youtu.be/8XM7j7Ojrnc&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ele conversou conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;como conheceu o Elixir e quando passou a usá-lo em produção&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;sua migração (em andamento) para o exterior&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;sobre o RabbitMQ Expert Training da Erlang Solutions.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;sobre o curso de OTP da Groxio com Bruce Tate&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como foi seu processo de aprendizado de Elixir&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como surgiu seu interesse por Scrum e qual é sua opinião sobre métodos ágeis no desenvolvimento de software&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;como conheceu o podcast e como tem sido essa experiência com as traduções&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Designing Elixir Systems with OTP &lt;a href=&quot;https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/&quot;&gt;&lt;u&gt;https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Curso de OTP da Groxio &lt;a href=&quot;https://grox.io/language/otp/course&quot;&gt;&lt;u&gt;https://grox.io/language/otp/course&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Site da linguagem &lt;a href=&quot;https://elixir-lang.org/&quot;&gt;&lt;u&gt;https://elixir-lang.org/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Começando com a linguagem &lt;a href=&quot;https://elixir-lang.org/getting-started/introduction.html&quot;&gt;&lt;u&gt;https://elixir-lang.org/getting-started/introduction.html&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir in Action, Saša Jurić &lt;a href=&quot;https://www.manning.com/books/elixir-in-action-second-edition&quot;&gt;&lt;u&gt;https://www.manning.com/books/elixir-in-action-second-edition&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir e Rafael Camarda &lt;a href=&quot;https://www.youtube.com/watch?v=xetZrpLtF9A&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=xetZrpLtF9A&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://twitter.com/rafacamarda&quot;&gt;&lt;u&gt;https://twitter.com/rafacamarda&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://www.instagram.com/rafacamarda&quot;&gt;&lt;u&gt;https://www.instagram.com/rafacamarda&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Curso de Elixir do Prag Dave Thomas &lt;a href=&quot;https://codestool.coding-gnome.com/courses/elixir-for-programmers-2&quot;&gt;&lt;u&gt;https://codestool.coding-gnome.com/courses/elixir-for-programmers-2&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Agile as a full-featured religious dogma &lt;a href=&quot;https://elixirforum.com/t/agile-as-a-full-featured-religious-dogma/27394&quot;&gt;&lt;u&gt;https://elixirforum.com/t/agile-as-a-full-featured-religious-dogma/27394&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;“Scrum is fragile, not agile” (blog) &lt;a href=&quot;https://elixirforum.com/t/scrum-is-fragile-not-agile-blog/22733&quot;&gt;&lt;u&gt;https://elixirforum.com/t/scrum-is-fragile-not-agile-blog/22733&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Associe-se à Erlang Ecosystem Foundation em&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Sl8XTO&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://bit.ly/3Sl8XTO&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. O site da fundação é&lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Jma95g&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://bit.ly/3Jma95g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. Nosso email é elixiremfoco@gmail.com.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1662142321439-6dc55128b78a1.jpg"/>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Participe da Code BEAM BR 2022!]]></title>
+			<description><![CDATA[<p>Acesse <a href="https://www.codebeambr.com/">https://www.codebeambr.com/</a> e inscreva-se com o cupom &nbsp;ELIXIREMFOCO50.</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Participe-da-Code-BEAM-BR-2022-e1ma20i</link>
+			<guid isPermaLink="false">12f75d07-df7b-4891-ae37-e5ae54ea1bf9</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Tue, 09 Aug 2022 15:00:56 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/55952850/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F55952850%2F8e8b3ace17059d346695d1f5ae9cc3d0.m4a" length="4283432" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Acesse &lt;a href=&quot;https://www.codebeambr.com/&quot;&gt;https://www.codebeambr.com/&lt;/a&gt; e inscreva-se com o cupom &amp;nbsp;ELIXIREMFOCO50.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:24</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12866474/12866474-1614898273212-e4a057b2d5a0e.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[17. Ulisses Almeida, Engenheiro de Software na Duffel]]></title>
+			<description><![CDATA[<p>Neste episódio conversamos com Ulisses Almeida, Engenheiro de Software na Duffel, Inglaterra. <strong>Você pode escutar também no YouTube </strong><a href="https://youtu.be/2r6ZP8fL9g4">https://youtu.be/2r6ZP8fL9g4</a>.</p>
+<p>Ulisses Almeida no Twitter <a href="https://twitter.com/ulissesalmeida"><u>https://twitter.com/ulissesalmeida</u></a></p>
+<p>Site/blog do Ulisses <a href="https://ulisses.dev/"><u>https://ulisses.dev/</u></a></p>
+<p>LinkedIn do Ulisses <a href="https://www.linkedin.com/in/ulissesalmeida/"><u>https://www.linkedin.com/in/ulissesalmeida/</u></a></p>
+<p><strong>Ele conversou conosco sobre:</strong></p>
+<ul>
+ <li><strong>a Duffel </strong><a href="https://duffel.com/"><u><strong>https://duffel.com/</strong></u></a><strong> e como ela usa Elixir (Integrating travel with Elixir at Duffel </strong><a href="https://elixir-lang.org/blog/2020/12/10/integrating-travel-with-elixir-at-duffel/"><u><strong>https://elixir-lang.org/blog/2020/12/10/integrating-travel-with-elixir-at-duffel/</strong></u></a><strong>)</strong></li>
+ <li><strong>seu livro Learn Functional Programming with Elixir </strong><a href="https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/"><u><strong>https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/</strong></u></a><strong>;</strong></li>
+ <li><strong>seu tempo na Plataformatec</strong></li>
+ <li><strong>suas contribuições em código aberto</strong></li>
+ <li><strong>sua mudança para a Estônia e depois para a Inglaterra</strong></li>
+</ul>
+<p>&nbsp;<strong>Links:</strong></p>
+<ul>
+ <li>Resolução de exercícios do livro <a href="https://bit.ly/3OXU86J"><u>https://bit.ly/3OXU86J</u></a></li>
+  <li>Curso da Educative.io com exercícios do Ulisses <a href="https://www.educative.io/courses/functional-programming-elixir"><u><strong>https://www.educative.io/courses/functional-programming-elixir</strong></u></a></li>
+  <li><strong>Github do Ulisses </strong><a href="https://github.com/ulissesalmeida"><u><strong>https://github.com/ulissesalmeida</strong></u></a></li>
+  <li><strong>Elixir Lab e o livro do Ulisses </strong><a href="https://bit.ly/3vy2WJW"><u><strong>https://bit.ly/3vy2WJW</strong></u></a></li>
+  <li><a href="https://ulisses.dev/elixir/2021/03/05/aggregation-of-services-pattern.html"><u>https://ulisses.dev/elixir/2021/03/05/aggregation-of-services-pattern.html</u></a></li>
+  <li><a href="https://github.com/thoughtbot/factory_bot"><u>https://github.com/thoughtbot/factory_bot</u></a></li>
+  <li><a href="https://ulisses.dev/elixir/2020/02/19/elixir-style-for-maintanability.html"><u>https://ulisses.dev/elixir/2020/02/19/elixir-style-for-maintanability.html</u></a></li>
+  <li>Proposal Template <a href="https://pragprog.com/publish-with-us/"><u>https://pragprog.com/publish-with-us/</u></a></li>
+  <li>Elixir in Action, Second Edition</li>
+  <li><a href="https://www.manning.com/books/elixir-in-action-second-edition"><u>https://www.manning.com/books/elixir-in-action-second-edition</u></a></li>
+  <li>Programming Elixir 1.6 <a href="https://pragprog.com/titles/elixir16/programming-elixir-1-6/"><u>https://pragprog.com/titles/elixir16/programming-elixir-1-6/</u></a></li>
+  <li>Good and Bad Elixir <a href="https://keathley.io/blog/good-and-bad-elixir.html"><u>https://keathley.io/blog/good-and-bad-elixir.html</u></a></li>
+</ul>
+<p><strong>Associe-se à Erlang Ecosystem Foundation em </strong><a href="https://bit.ly/3Sl8XTO"><u><strong>https://bit.ly/3Sl8XTO</strong></u></a><strong>. O site da fundação é </strong><a href="https://bit.ly/3Jma95g"><u><strong>https://bit.ly/3Jma95g</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso site é </strong><a href="https://elixiremfoco.com"><strong>https://elixiremfoco.com</strong></a><strong>. Estamos no Twitter em @elixiremfoco </strong><a href="https://twitter.com/elixiremfoco"><strong>https://twitter.com/elixiremfoco</strong></a><strong>. Nosso email é elixiremfoco@gmail.com.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/17--Ulisses-Almeida--Engenheiro-de-Software-na-Duffel-e1lutji</link>
+			<guid isPermaLink="false">2f5d81d9-3a08-4d01-9bc4-ec5426795066</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 03 Aug 2022 03:00:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/55587890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F55587890%2Fd5081a0d5659589401776f6138c24299.m4a" length="65879381" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Neste episódio conversamos com Ulisses Almeida, Engenheiro de Software na Duffel, Inglaterra. &lt;strong&gt;Você pode escutar também no YouTube &lt;/strong&gt;&lt;a href=&quot;https://youtu.be/2r6ZP8fL9g4&quot;&gt;https://youtu.be/2r6ZP8fL9g4&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ulisses Almeida no Twitter &lt;a href=&quot;https://twitter.com/ulissesalmeida&quot;&gt;&lt;u&gt;https://twitter.com/ulissesalmeida&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Site/blog do Ulisses &lt;a href=&quot;https://ulisses.dev/&quot;&gt;&lt;u&gt;https://ulisses.dev/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LinkedIn do Ulisses &lt;a href=&quot;https://www.linkedin.com/in/ulissesalmeida/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/ulissesalmeida/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ele conversou conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;a Duffel &lt;/strong&gt;&lt;a href=&quot;https://duffel.com/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://duffel.com/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt; e como ela usa Elixir (Integrating travel with Elixir at Duffel &lt;/strong&gt;&lt;a href=&quot;https://elixir-lang.org/blog/2020/12/10/integrating-travel-with-elixir-at-duffel/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://elixir-lang.org/blog/2020/12/10/integrating-travel-with-elixir-at-duffel/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;)&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;seu livro Learn Functional Programming with Elixir &lt;/strong&gt;&lt;a href=&quot;https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;;&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;seu tempo na Plataformatec&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;suas contribuições em código aberto&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;sua mudança para a Estônia e depois para a Inglaterra&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;nbsp;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Resolução de exercícios do livro &lt;a href=&quot;https://bit.ly/3OXU86J&quot;&gt;&lt;u&gt;https://bit.ly/3OXU86J&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Curso da Educative.io com exercícios do Ulisses &lt;a href=&quot;https://www.educative.io/courses/functional-programming-elixir&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.educative.io/courses/functional-programming-elixir&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Github do Ulisses &lt;/strong&gt;&lt;a href=&quot;https://github.com/ulissesalmeida&quot;&gt;&lt;u&gt;&lt;strong&gt;https://github.com/ulissesalmeida&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Elixir Lab e o livro do Ulisses &lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3vy2WJW&quot;&gt;&lt;u&gt;&lt;strong&gt;https://bit.ly/3vy2WJW&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ulisses.dev/elixir/2021/03/05/aggregation-of-services-pattern.html&quot;&gt;&lt;u&gt;https://ulisses.dev/elixir/2021/03/05/aggregation-of-services-pattern.html&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/thoughtbot/factory_bot&quot;&gt;&lt;u&gt;https://github.com/thoughtbot/factory_bot&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ulisses.dev/elixir/2020/02/19/elixir-style-for-maintanability.html&quot;&gt;&lt;u&gt;https://ulisses.dev/elixir/2020/02/19/elixir-style-for-maintanability.html&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Proposal Template &lt;a href=&quot;https://pragprog.com/publish-with-us/&quot;&gt;&lt;u&gt;https://pragprog.com/publish-with-us/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir in Action, Second Edition&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.manning.com/books/elixir-in-action-second-edition&quot;&gt;&lt;u&gt;https://www.manning.com/books/elixir-in-action-second-edition&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Programming Elixir 1.6 &lt;a href=&quot;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&quot;&gt;&lt;u&gt;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Good and Bad Elixir &lt;a href=&quot;https://keathley.io/blog/good-and-bad-elixir.html&quot;&gt;&lt;u&gt;https://keathley.io/blog/good-and-bad-elixir.html&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Associe-se à Erlang Ecosystem Foundation em &lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Sl8XTO&quot;&gt;&lt;u&gt;&lt;strong&gt;https://bit.ly/3Sl8XTO&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;. O site da fundação é &lt;/strong&gt;&lt;a href=&quot;https://bit.ly/3Jma95g&quot;&gt;&lt;u&gt;&lt;strong&gt;https://bit.ly/3Jma95g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é &lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com&quot;&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. Estamos no Twitter em @elixiremfoco &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;. Nosso email é elixiremfoco@gmail.com.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12866474/12866474-1661541722376-a5832ce0531e3.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[16. Atualizações da Equipe Elixir em Foco: Cris, Adolfo, Zoey e Herminio]]></title>
+			<description><![CDATA[<p>A equipe do Elixir em Foco comenta o que aconteceu em suas vidas desde o episódio <a href="https://anchor.fm/elixiremfoco/episodes/Trailer-do-Elixir-em-Foco-erjhfk"><u>Trailer</u></a>.</p>
+<ul>
+ <li>Adolfo Neto <a href="https://adolfont.github.io/"><u>https://adolfont.github.io/</u></a></li>
+ <li>Herminio Torres <a href="https://twitter.com/herminiotorres"><u>https://twitter.com/herminiotorres</u></a></li>
+ <li>Cristine Guadelupe <a href="https://twitter.com/crisguade"><u>https://twitter.com/crisguade</u></a></li>
+ <li>Zoey Pessanha <a href="https://twitter.com/zoedsoupe"><u>https://twitter.com/zoedsoupe</u></a></li>
+</ul>
+<p>Link para inscrever-se na Erlang Ecosystem Foundation <a href="https://members.erlef.org/join-us"><u><em>https://members.erlef.org/join-us</em></u></a></p>
+<p>Livebook <a href="https://livebook.dev/"><u>https://livebook.dev/</u></a></p>
+<p>Kino <a href="https://github.com/livebook-dev/kino"><u>https://github.com/livebook-dev/kino</u></a></p>
+<p>Vídeos da Code Sync/Code BEAM <a href="https://www.youtube.com/c/CodeSync/videos"><u>https://www.youtube.com/c/CodeSync/videos</u></a></p>
+<p>Severance <a href="https://www.imdb.com/title/tt11280740/"><u>https://www.imdb.com/title/tt11280740/</u></a></p>
+<p>Calistenicoders &nbsp;<a href="https://t.me/calistenicoders"><u>https://t.me/calistenicoders</u></a></p>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><strong> </strong><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso canal no YouTube é</strong><a href="https://www.youtube.com/c/ElixirEmFoco"><strong> https://www.youtube.com/c/ElixirEmFoco</strong></a></p>
+<p><strong>Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><strong> </strong><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><u><strong>elixiremfoco@gmail.com</strong></u><strong>.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/16--Atualizaes-da-Equipe-Elixir-em-Foco-Cris--Adolfo--Zoey-e-Herminio-e1kmton</link>
+			<guid isPermaLink="false">1fd478d6-eea2-4485-8182-cd2de64d5b0c</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 06 Jul 2022 03:00:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/54277335/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F54277335%2Ffc8a6d6d08c92feba80e93d25332bea9.m4a" length="64735494" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;A equipe do Elixir em Foco comenta o que aconteceu em suas vidas desde o episódio &lt;a href=&quot;https://anchor.fm/elixiremfoco/episodes/Trailer-do-Elixir-em-Foco-erjhfk&quot;&gt;&lt;u&gt;Trailer&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Adolfo Neto &lt;a href=&quot;https://adolfont.github.io/&quot;&gt;&lt;u&gt;https://adolfont.github.io/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Herminio Torres &lt;a href=&quot;https://twitter.com/herminiotorres&quot;&gt;&lt;u&gt;https://twitter.com/herminiotorres&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Cristine Guadelupe &lt;a href=&quot;https://twitter.com/crisguade&quot;&gt;&lt;u&gt;https://twitter.com/crisguade&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Zoey Pessanha &lt;a href=&quot;https://twitter.com/zoedsoupe&quot;&gt;&lt;u&gt;https://twitter.com/zoedsoupe&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Link para inscrever-se na Erlang Ecosystem Foundation &lt;a href=&quot;https://members.erlef.org/join-us&quot;&gt;&lt;u&gt;&lt;em&gt;https://members.erlef.org/join-us&lt;/em&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Livebook &lt;a href=&quot;https://livebook.dev/&quot;&gt;&lt;u&gt;https://livebook.dev/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Kino &lt;a href=&quot;https://github.com/livebook-dev/kino&quot;&gt;&lt;u&gt;https://github.com/livebook-dev/kino&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vídeos da Code Sync/Code BEAM &lt;a href=&quot;https://www.youtube.com/c/CodeSync/videos&quot;&gt;&lt;u&gt;https://www.youtube.com/c/CodeSync/videos&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Severance &lt;a href=&quot;https://www.imdb.com/title/tt11280740/&quot;&gt;&lt;u&gt;https://www.imdb.com/title/tt11280740/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Calistenicoders &amp;nbsp;&lt;a href=&quot;https://t.me/calistenicoders&quot;&gt;&lt;u&gt;https://t.me/calistenicoders&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso canal no YouTube é&lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/c/ElixirEmFoco&quot;&gt;&lt;strong&gt; https://www.youtube.com/c/ElixirEmFoco&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:06:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1656701581420-a7d5226b7b083.jpg"/>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[15. Elixir Code Smells com Lucas Vegi (UFV) e Marco Tulio Valente (UFMG)]]></title>
+			<description><![CDATA[<p>Neste episódio conversamos com Lucas Vegi, professor da UFV e doutorando na UFMG, e com Marco Tulio Valente, professor da UFMG, <strong>sobre o artigo Code Smells in Elixir: Early Results from a Grey Literature Review </strong>&nbsp;<a href="https://homepages.dcc.ufmg.br/~mtov/pub/2022-icpc-era.pdf"><u>https://homepages.dcc.ufmg.br/~mtov/pub/2022-icpc-era.pdf</u></a><u>.</u></p>
+<p><strong>Links:</strong></p>
+<ul>
+ <li>Repositório Elixir Code Smells <a href="https://github.com/lucasvegi/Elixir-Code-Smells"><u>https://github.com/lucasvegi/Elixir-Code-Smells</u></a><u>.</u></li>
+ <li>Vídeo: <a href="https://www.youtube.com/watch?v=3X2gxg13tXo ">https://www.youtube.com/watch?v=3X2gxg13tXo&nbsp;</a></li>
+ <li><strong>Livro "Engenharia de Software Moderna" </strong><a href="https://engsoftmoderna.info/"><u>https://engsoftmoderna.info/</u></a></li>
+ <li>Code smells com Marcelo Maia no Fronteiras da Engenharia de Software: Parte 1 <a href="https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-1-ejkpqr"><u>https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-1-ejkpqr</u></a> e Parte 2 <a href="https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-2-ekctv0"><u>https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-2-ekctv0</u></a></li>
+  <li>Vídeo sobre Code Smells em Elixir <a href="https://youtu.be/zCzpgawEIns" rel="noreferrer noopener" target="_blank" title="https://youtu.be/zCzpgawEIns">https://youtu.be/zCzpgawEIns</a></li>
+  <li>A Livebook notebook for Elixir Code Smells <a href="https://youtu.be/pV6YxGPvx4U">https://youtu.be/pV6YxGPvx4U</a></li>
+  <li>Elixir Patterns <a href="https://elixirforum.com/t/elixir-patterns-self-published-handbook/46649"><u>https://elixirforum.com/t/elixir-patterns-self-published-handbook/46649</u></a></li>
+  <li>Elixir Forum <a href="https://elixirforum.com/t/code-smells-in-elixir-early-results-from-a-grey-literature-review/46676"><u>https://elixirforum.com/t/code-smells-in-elixir-early-results-from-a-grey-literature-review/46676</u></a></li>
+  <li>Episódio com Marco Tulio <a href="https://anchor.fm/fronteirases/episodes/9--Ensino-de-Engenharia-de-Software-com-Marco-Tulio-Valente-UFMG-eqbqoh"><u>https://anchor.fm/fronteirases/episodes/9--Ensino-de-Engenharia-de-Software-com-Marco-Tulio-Valente-UFMG-eqbqoh</u></a></li>
+  <li><a href="https://codestool.coding-gnome.com/courses/elixir-for-programmers-2"><u>https://codestool.coding-gnome.com/courses/elixir-for-programmers-2</u></a></li>
+  <li><a href="https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/"><u>https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/</u></a></li>
+  <li><u>Fio </u><a href="https://twitter.com/adolfont/status/1504860202868346890"><u>https://twitter.com/adolfont/status/1504860202868346890</u></a></li>
+  <li>A systematic literature review on bad smells — 5 W's: which, when, what, who, where&nbsp;<a href="http://doi.org/10.1109/tse.2018.2880977"><u>http://doi.org/10.1109/tse.2018.2880977</u></a></li>
+</ul>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><strong> </strong><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso canal no YouTube é </strong><a href="https://www.youtube.com/c/ElixirEmFoco"><strong>https://www.youtube.com/c/ElixirEmFoco</strong></a></p>
+<p><strong>Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><strong> </strong><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><u><strong>elixiremfoco@gmail.com</strong></u><strong>.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/15--Elixir-Code-Smells-com-Lucas-Vegi-UFV-e-Marco-Tulio-Valente-UFMG-e1jb1bb</link>
+			<guid isPermaLink="false">cdf94cff-7216-4e3c-aa29-62528fa6dcf7</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 01 Jun 2022 03:00:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/52839211/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F52839211%2F186dde03759f2e55aa2582ba66758d51.m4a" length="65363368" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Neste episódio conversamos com Lucas Vegi, professor da UFV e doutorando na UFMG, e com Marco Tulio Valente, professor da UFMG, &lt;strong&gt;sobre o artigo Code Smells in Elixir: Early Results from a Grey Literature Review &lt;/strong&gt;&amp;nbsp;&lt;a href=&quot;https://homepages.dcc.ufmg.br/~mtov/pub/2022-icpc-era.pdf&quot;&gt;&lt;u&gt;https://homepages.dcc.ufmg.br/~mtov/pub/2022-icpc-era.pdf&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Repositório Elixir Code Smells &lt;a href=&quot;https://github.com/lucasvegi/Elixir-Code-Smells&quot;&gt;&lt;u&gt;https://github.com/lucasvegi/Elixir-Code-Smells&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/li&gt;
+ &lt;li&gt;Vídeo: &lt;a href=&quot;https://www.youtube.com/watch?v=3X2gxg13tXo &quot;&gt;https://www.youtube.com/watch?v=3X2gxg13tXo&amp;nbsp;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Livro &quot;Engenharia de Software Moderna&quot; &lt;/strong&gt;&lt;a href=&quot;https://engsoftmoderna.info/&quot;&gt;&lt;u&gt;https://engsoftmoderna.info/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Code smells com Marcelo Maia no Fronteiras da Engenharia de Software: Parte 1 &lt;a href=&quot;https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-1-ejkpqr&quot;&gt;&lt;u&gt;https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-1-ejkpqr&lt;/u&gt;&lt;/a&gt; e Parte 2 &lt;a href=&quot;https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-2-ekctv0&quot;&gt;&lt;u&gt;https://anchor.fm/fronteirases/episodes/4--Code-smells-com-Marcelo-Maia-UFU---Parte-2-ekctv0&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vídeo sobre Code Smells em Elixir &lt;a href=&quot;https://youtu.be/zCzpgawEIns&quot; rel=&quot;noreferrer noopener&quot; target=&quot;_blank&quot; title=&quot;https://youtu.be/zCzpgawEIns&quot;&gt;https://youtu.be/zCzpgawEIns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A Livebook notebook for Elixir Code Smells &lt;a href=&quot;https://youtu.be/pV6YxGPvx4U&quot;&gt;https://youtu.be/pV6YxGPvx4U&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Patterns &lt;a href=&quot;https://elixirforum.com/t/elixir-patterns-self-published-handbook/46649&quot;&gt;&lt;u&gt;https://elixirforum.com/t/elixir-patterns-self-published-handbook/46649&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Forum &lt;a href=&quot;https://elixirforum.com/t/code-smells-in-elixir-early-results-from-a-grey-literature-review/46676&quot;&gt;&lt;u&gt;https://elixirforum.com/t/code-smells-in-elixir-early-results-from-a-grey-literature-review/46676&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Episódio com Marco Tulio &lt;a href=&quot;https://anchor.fm/fronteirases/episodes/9--Ensino-de-Engenharia-de-Software-com-Marco-Tulio-Valente-UFMG-eqbqoh&quot;&gt;&lt;u&gt;https://anchor.fm/fronteirases/episodes/9--Ensino-de-Engenharia-de-Software-com-Marco-Tulio-Valente-UFMG-eqbqoh&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codestool.coding-gnome.com/courses/elixir-for-programmers-2&quot;&gt;&lt;u&gt;https://codestool.coding-gnome.com/courses/elixir-for-programmers-2&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/&quot;&gt;&lt;u&gt;https://www.oreilly.com/library/view/designing-for-scalability/9781449361556/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;u&gt;Fio &lt;/u&gt;&lt;a href=&quot;https://twitter.com/adolfont/status/1504860202868346890&quot;&gt;&lt;u&gt;https://twitter.com/adolfont/status/1504860202868346890&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;A systematic literature review on bad smells — 5 W&apos;s: which, when, what, who, where&amp;nbsp;&lt;a href=&quot;http://doi.org/10.1109/tse.2018.2880977&quot;&gt;&lt;u&gt;http://doi.org/10.1109/tse.2018.2880977&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso canal no YouTube é &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/c/ElixirEmFoco&quot;&gt;&lt;strong&gt;https://www.youtube.com/c/ElixirEmFoco&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:21</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1654033278851-d896243d2c6ba.jpg"/>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[14. Elixir Protobuf com João Britto (e Elixir Brasil com João e Alda Rocha)]]></title>
+			<description><![CDATA[<p>Neste episódio conversamos com João Britto, da Community, e com Alda Rocha, Design Lead na RaiaDrogasil.</p>
+<p><strong>Eles conversaram conosco sobre:</strong></p>
+<ul>
+ <li><strong>a história de João na Plataformatec</strong></li>
+ <li><strong>João e o fim da Plataformatec</strong></li>
+ <li><strong>como contribuir com Open Source levou João à Community</strong></li>
+ <li><strong>As contribuições de João para o Exercism</strong></li>
+ <li><strong>João e Alda explicam como surgiu a Elixir Brasil</strong></li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+ <li>João Britto no Twitter <a href="https://twitter.com/noteu"><u>https://twitter.com/noteu</u></a></li>
+ <li>LinkedIn do João &nbsp;<a href="https://www.linkedin.com/in/jbritto/"><u>https://www.linkedin.com/in/jbritto/</u></a></li>
+ <li>GitHub do João <a href="https://github.com/britto"><u>https://github.com/britto</u></a></li>
+  <li>Twitter da Alda Rocha <a href="https://twitter.com/mjcoffeeholick">https://twitter.com/mjcoffeeholick</a></li>
+  <li>Linkedin da Alda <a href="https://www.linkedin.com/in/mjcoffeeholick/"><u>https://www.linkedin.com/in/mjcoffeeholick/</u></a></li>
+  <li>Elixir Protobuf <a href="https://github.com/elixir-protobuf/protobuf"><u>https://github.com/elixir-protobuf/protobuf</u></a></li>
+  <li>Elixir Brasil <a href="https://elixirbrasil.com/">https://elixirbrasil.com/</a>&nbsp;</li>
+  <li>Fio sobre Protobuf do Andrea Leopardi <a href="https://twitter.com/whatyouhide/status/1455812251517063169?s=20&amp;t=96oN9w6lSdypvt3m4qBjjA"><u>https://twitter.com/whatyouhide/status/1455812251517063169?s=20&amp;t=96oN9w6lSdypvt3m4qBjjA</u></a></li>
+</ul>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><strong> </strong><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso canal no YouTube é </strong><a href="https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g"><u><strong>https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g</strong></u></a></p>
+<p><strong>Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><strong> </strong><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><u><strong>elixiremfoco@gmail.com</strong></u><strong>.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/14--Elixir-Protobuf-com-Joo-Britto-e-Elixir-Brasil-com-Joo-e-Alda-Rocha-e1hvknm</link>
+			<guid isPermaLink="false">d86dfeb4-c57e-4a95-8f88-2ebf29dfc254</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 04 May 2022 03:00:39 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/51417270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F51417270%2F76f3f13722fc3e64ce1a2a37e019deda.m4a" length="60005211" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Neste episódio conversamos com João Britto, da Community, e com Alda Rocha, Design Lead na RaiaDrogasil.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Eles conversaram conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;a história de João na Plataformatec&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;João e o fim da Plataformatec&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;como contribuir com Open Source levou João à Community&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;As contribuições de João para o Exercism&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;João e Alda explicam como surgiu a Elixir Brasil&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;João Britto no Twitter &lt;a href=&quot;https://twitter.com/noteu&quot;&gt;&lt;u&gt;https://twitter.com/noteu&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;LinkedIn do João &amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/in/jbritto/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/jbritto/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;GitHub do João &lt;a href=&quot;https://github.com/britto&quot;&gt;&lt;u&gt;https://github.com/britto&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter da Alda Rocha &lt;a href=&quot;https://twitter.com/mjcoffeeholick&quot;&gt;https://twitter.com/mjcoffeeholick&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Linkedin da Alda &lt;a href=&quot;https://www.linkedin.com/in/mjcoffeeholick/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/mjcoffeeholick/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Protobuf &lt;a href=&quot;https://github.com/elixir-protobuf/protobuf&quot;&gt;&lt;u&gt;https://github.com/elixir-protobuf/protobuf&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Brasil &lt;a href=&quot;https://elixirbrasil.com/&quot;&gt;https://elixirbrasil.com/&lt;/a&gt;&amp;nbsp;&lt;/li&gt;
+  &lt;li&gt;Fio sobre Protobuf do Andrea Leopardi &lt;a href=&quot;https://twitter.com/whatyouhide/status/1455812251517063169?s=20&amp;amp;t=96oN9w6lSdypvt3m4qBjjA&quot;&gt;&lt;u&gt;https://twitter.com/whatyouhide/status/1455812251517063169?s=20&amp;amp;t=96oN9w6lSdypvt3m4qBjjA&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso canal no YouTube é &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:50</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1651519529593-0960308a28ad6.jpg"/>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[13. Surface com Marlus Saraiva]]></title>
+			<description><![CDATA[<p><strong>Este é o primeiro episódio da nossa segunda temporada. Tivemos a honra de receber o criador do Surface: Marlus Saraiva.</strong></p>
+<p><strong>Ele conversou conosco sobre:</strong></p>
+<ul>
+ <li><strong>as motivações que o levaram a desenvolver o Surface</strong></li>
+ <li><strong>Phoenix LiveView</strong></li>
+ <li><strong>como funciona o parser do Surface em tempo de compilação</strong></li>
+ <li><strong>o que ele espera para o futuro do Surface</strong></li>
+ <li><strong>como contribuir com o Surface</strong></li>
+ <li><strong>repercussão do Heex</strong></li>
+</ul>
+<p><strong>Links:</strong></p>
+<ul>
+  <li>Marlus no Twitter <a href="https://twitter.com/MarlusSaraiva"><u>https://twitter.com/MarlusSaraiva</u></a></li>
+  <li>LinkedIn do Marlus <a href="https://www.linkedin.com/in/marlus-saraiva-08572322/"><u>https://www.linkedin.com/in/marlus-saraiva-08572322/</u></a></li>
+  <li>GitHub do Marlus <a href="https://github.com/msaraiva"><u>https://github.com/msaraiva</u></a></li>
+  <li>Surface <a href="https://github.com/surface-ui"><u>https://github.com/surface-ui</u></a></li>
+</ul>
+<p><br></p>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><strong> </strong><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso canal no YouTube é </strong><a href="https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g"><u><strong>https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g</strong></u></a></p>
+<p><strong>Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><strong> </strong><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><u><strong>elixiremfoco@gmail.com</strong></u><strong>.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/13--Surface-com-Marlus-Saraiva-e1fq96c</link>
+			<guid isPermaLink="false">e2a371c2-2b7b-41b8-a001-e90f5a03f3c4</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 06 Apr 2022 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/49144460/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2Fexports%2F4d4944e8%2F49144460%2F3536fc0d9fb8caa526b825db77b90048.m4a" length="43084641" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Este é o primeiro episódio da nossa segunda temporada. Tivemos a honra de receber o criador do Surface: Marlus Saraiva.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ele conversou conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;as motivações que o levaram a desenvolver o Surface&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Phoenix LiveView&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;como funciona o parser do Surface em tempo de compilação&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;o que ele espera para o futuro do Surface&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;como contribuir com o Surface&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;repercussão do Heex&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Marlus no Twitter &lt;a href=&quot;https://twitter.com/MarlusSaraiva&quot;&gt;&lt;u&gt;https://twitter.com/MarlusSaraiva&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;LinkedIn do Marlus &lt;a href=&quot;https://www.linkedin.com/in/marlus-saraiva-08572322/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/marlus-saraiva-08572322/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;GitHub do Marlus &lt;a href=&quot;https://github.com/msaraiva&quot;&gt;&lt;u&gt;https://github.com/msaraiva&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Surface &lt;a href=&quot;https://github.com/surface-ui&quot;&gt;&lt;u&gt;https://github.com/surface-ui&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso canal no YouTube é &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:44:23</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1648078502412-69ba91919a40b.jpg"/>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[12. Elixir em Produção, com José Valim (Dashbit)]]></title>
+			<description><![CDATA[<p><strong>Este é o episódio final da nossa primeira temporada. Tivemos a honra de receber o criador da linguagem Elixir, José Valim.</strong></p>
+<p><strong>Ele conversou conosco sobre:</strong></p>
+<ul>
+ <li><strong>sua formação na USP e no Politécnico de Turim</strong></li>
+ <li><strong>Elixir em Produção</strong></li>
+ <li><strong>a Dashbit e seus serviços</strong></li>
+ <li><strong>a comunidade de Elixir</strong></li>
+ <li><strong>a história e o futuro de Elixir</strong></li>
+</ul>
+<p><strong>A equipe da Dashbit &nbsp;</strong><a href="https://dashbit.co/#team"><u><strong>https://dashbit.co/#team</strong></u></a></p>
+<p><strong>Links:</strong></p>
+<ul>
+ <li><strong>Fio sobre a história do pipe </strong><a href="https://twitter.com/adolfont/status/1454832032710905863?s=20"><u><strong>https://twitter.com/adolfont/status/1454832032710905863?s=20</strong></u></a></li>
+  <li><strong>Seven Languages in Seven Weeks </strong><a href="https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/"><u><strong>https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/</strong></u></a></li>
+  <li><strong>Seven More Languages in Seven Weeks (Elixir e Lua estão lá)</strong></li>
+  <li><a href="https://pragprog.com/titles/7lang/seven-more-languages-in-seven-weeks/"><u><strong>https://pragprog.com/titles/7lang/seven-more-languages-in-seven-weeks/</strong></u></a></li>
+  <li><strong>Adopting Elixir </strong><a href="https://pragprog.com/titles/tvmelixir/adopting-elixir/"><u><strong>https://pragprog.com/titles/tvmelixir/adopting-elixir/</strong></u></a></li>
+  <li><strong>Algumas empresas que usam Elixir em produção </strong><a href="https://elixir-lang.org/cases.html"><u><strong>https://elixir-lang.org/cases.html</strong></u></a></li>
+  <li><strong>HOPL </strong><a href="https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)"><u><strong>https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)</strong></u></a></li>
+  <li><strong>A history of Erlang </strong><a href="https://dl.acm.org/doi/abs/10.1145/1238844.1238850"><u><strong>https://dl.acm.org/doi/abs/10.1145/1238844.1238850</strong></u></a></li>
+  <li><strong>Concepts, Techniques, and Models of Computer Programming, Peter Van Roy &nbsp;&nbsp;</strong><a href="https://www.amazon.com/-/pt/dp/0262220695/"><u><strong>https://www.amazon.com/-/pt/dp/0262220695/</strong></u></a></li>
+</ul>
+<p><strong>Nosso site é</strong><a href="https://elixiremfoco.com/"><strong> </strong><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso canal no YouTube é </strong><a href="https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g"><u><strong>https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g</strong></u></a></p>
+<p><strong>Estamos no Twitter em @elixiremfoco</strong><a href="https://twitter.com/elixiremfoco"><strong> </strong><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><u><strong>elixiremfoco@gmail.com</strong></u><strong>.</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/12--Elixir-em-Produo--com-Jos-Valim-Dashbit-e1edp6t</link>
+			<guid isPermaLink="false">937a51f9-9cf2-4bab-bc8e-be12ceb7b523</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 02 Mar 2022 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/47686301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-15%2F380b78eb-43f3-1a1a-3855-495550040d6a.mp3" length="162972399" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Este é o episódio final da nossa primeira temporada. Tivemos a honra de receber o criador da linguagem Elixir, José Valim.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ele conversou conosco sobre:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;sua formação na USP e no Politécnico de Turim&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;Elixir em Produção&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;a Dashbit e seus serviços&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;a comunidade de Elixir&lt;/strong&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;strong&gt;a história e o futuro de Elixir&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;A equipe da Dashbit &amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;https://dashbit.co/#team&quot;&gt;&lt;u&gt;&lt;strong&gt;https://dashbit.co/#team&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;strong&gt;Fio sobre a história do pipe &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/adolfont/status/1454832032710905863?s=20&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/adolfont/status/1454832032710905863?s=20&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Seven Languages in Seven Weeks &lt;/strong&gt;&lt;a href=&quot;https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://pragprog.com/titles/btlang/seven-languages-in-seven-weeks/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Seven More Languages in Seven Weeks (Elixir e Lua estão lá)&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pragprog.com/titles/7lang/seven-more-languages-in-seven-weeks/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://pragprog.com/titles/7lang/seven-more-languages-in-seven-weeks/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Adopting Elixir &lt;/strong&gt;&lt;a href=&quot;https://pragprog.com/titles/tvmelixir/adopting-elixir/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://pragprog.com/titles/tvmelixir/adopting-elixir/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Algumas empresas que usam Elixir em produção &lt;/strong&gt;&lt;a href=&quot;https://elixir-lang.org/cases.html&quot;&gt;&lt;u&gt;&lt;strong&gt;https://elixir-lang.org/cases.html&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;HOPL &lt;/strong&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)&quot;&gt;&lt;u&gt;&lt;strong&gt;https://en.wikipedia.org/wiki/History_of_Programming_Languages_(conference)&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;A history of Erlang &lt;/strong&gt;&lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/1238844.1238850&quot;&gt;&lt;u&gt;&lt;strong&gt;https://dl.acm.org/doi/abs/10.1145/1238844.1238850&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Concepts, Techniques, and Models of Computer Programming, Peter Van Roy &amp;nbsp;&amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;https://www.amazon.com/-/pt/dp/0262220695/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.amazon.com/-/pt/dp/0262220695/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é&lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso canal no YouTube é &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.youtube.com/channel/UCpdElWp_U2YyXLCJYTDiG7g&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco&lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;strong&gt; &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:07:44</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1645202332324-f11c7333ca257.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[11. Elixir em Produção com Philip Sampaio (Dashbit)]]></title>
+			<description><![CDATA[<p>No décimo primeiro episódio da série Elixir em Produção, conversamos com Philip Sampaio, Engenheiro de Software na Dashbit desde 2020. Philss, como também é conhecido, é criador do Floki (<a href="https://github.com/philss/floki"><u>https://github.com/philss/floki</u></a>), um parser simples de &nbsp;HTML que permite a pesquisa de nós usando seletores CSS.</p>
+<p>Links do Philip:</p>
+<ul>
+ <li>Twitter: <a href="https://twitter.com/philipsampaio"><u>https://twitter.com/philipsampaio</u></a></li>
+ <li>@philipsampaio no Telegram</li>
+ <li>Site: <a href="http://www.philipsampaio.com.br/"><u>http://www.philipsampaio.com.br/</u></a></li>
+ <li>GitHub <a href="https://github.com/philss"><u>https://github.com/philss</u></a></li>
+ <li>Linkedin <a href="https://www.linkedin.com/in/philipsampaio"><u>https://www.linkedin.com/in/philipsampaio</u></a></li>
+ <li>Canal no YouTube <a href="https://www.youtube.com/user/philss77"><u>https://www.youtube.com/user/philss77</u></a></li>
+  <li>Canal na Twitch <a href="https://www.twitch.tv/philipsampaio"><u>https://www.twitch.tv/philipsampaio</u></a></li>
+  <li>Site da Dashbit <a href="https://dashbit.co/"><u>https://dashbit.co/</u></a></li>
+</ul>
+<p>Links recomendados:</p>
+<ul>
+  <li><a href="https://twitter.com/philipsampaio/status/1258859685651853315?s=20"><u>Floki é utilizado no Phoenix Live View</u></a></li>
+  <li>Painel na Elixir Brasil 2019 chamado “Livestream de Elixir para aumentar a comunidade” <a href="https://2019.elixirbrasil.com/#/sessions/philip-sampaio"><u>https://2019.elixirbrasil.com/#/sessions/philip-sampaio</u></a>. &nbsp;Slides <a href="https://speakerdeck.com/philss/streaming-de-codigo-elixir-para-aumentar-a-comunidade"><u>https://speakerdeck.com/philss/streaming-de-codigo-elixir-para-aumentar-a-comunidade</u></a>.</li>
+  <li>PLDS - Phoenix LiveDashboard standalone - A quick demonstration &nbsp;<a href="https://www.youtube.com/watch?v=Rzl5BH8nb8M"><u>https://www.youtube.com/watch?v=Rzl5BH8nb8M</u></a></li>
+  <li>Phoenix LiveView: dá mesmo para substituir o Javascript? Por Philip Sampaio <a href="https://www.youtube.com/watch?v=3pB4Jl9Kfv4"><u>https://www.youtube.com/watch?v=3pB4Jl9Kfv4</u></a></li>
+  <li>Elug-SP#19 - Deploy de Aplicações Web em Elixir por Philip Sampaio <a href="https://www.youtube.com/watch?v=S_ttb7N5mI0"><u>https://www.youtube.com/watch?v=S_ttb7N5mI0</u></a></li>
+  <li>Elixir Lab <a href="https://twitter.com/elixirlaborg"><u>https://twitter.com/elixirlaborg</u></a></li>
+</ul>
+<p>Nosso site é<a href="https://elixiremfoco.com/"> <u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco<a href="https://twitter.com/elixiremfoco"> <u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <u>elixiremfoco@gmail.com</u>.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/11--Elixir-em-Produo-com-Philip-Sampaio-Dashbit-e1debc3</link>
+			<guid isPermaLink="false">70ec3a4b-7a48-4e9f-939b-0ba7ed5ba7f8</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 02 Feb 2022 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/46656323/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-1-1%2F22905860-23e2-0680-026b-5c18b97f334a.mp3" length="37867437" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;No décimo primeiro episódio da série Elixir em Produção, conversamos com Philip Sampaio, Engenheiro de Software na Dashbit desde 2020. Philss, como também é conhecido, é criador do Floki (&lt;a href=&quot;https://github.com/philss/floki&quot;&gt;&lt;u&gt;https://github.com/philss/floki&lt;/u&gt;&lt;/a&gt;), um parser simples de &amp;nbsp;HTML que permite a pesquisa de nós usando seletores CSS.&lt;/p&gt;
+&lt;p&gt;Links do Philip:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/philipsampaio&quot;&gt;&lt;u&gt;https://twitter.com/philipsampaio&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;@philipsampaio no Telegram&lt;/li&gt;
+ &lt;li&gt;Site: &lt;a href=&quot;http://www.philipsampaio.com.br/&quot;&gt;&lt;u&gt;http://www.philipsampaio.com.br/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;GitHub &lt;a href=&quot;https://github.com/philss&quot;&gt;&lt;u&gt;https://github.com/philss&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Linkedin &lt;a href=&quot;https://www.linkedin.com/in/philipsampaio&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/philipsampaio&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Canal no YouTube &lt;a href=&quot;https://www.youtube.com/user/philss77&quot;&gt;&lt;u&gt;https://www.youtube.com/user/philss77&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Canal na Twitch &lt;a href=&quot;https://www.twitch.tv/philipsampaio&quot;&gt;&lt;u&gt;https://www.twitch.tv/philipsampaio&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Site da Dashbit &lt;a href=&quot;https://dashbit.co/&quot;&gt;&lt;u&gt;https://dashbit.co/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links recomendados:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/philipsampaio/status/1258859685651853315?s=20&quot;&gt;&lt;u&gt;Floki é utilizado no Phoenix Live View&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Painel na Elixir Brasil 2019 chamado “Livestream de Elixir para aumentar a comunidade” &lt;a href=&quot;https://2019.elixirbrasil.com/#/sessions/philip-sampaio&quot;&gt;&lt;u&gt;https://2019.elixirbrasil.com/#/sessions/philip-sampaio&lt;/u&gt;&lt;/a&gt;. &amp;nbsp;Slides &lt;a href=&quot;https://speakerdeck.com/philss/streaming-de-codigo-elixir-para-aumentar-a-comunidade&quot;&gt;&lt;u&gt;https://speakerdeck.com/philss/streaming-de-codigo-elixir-para-aumentar-a-comunidade&lt;/u&gt;&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;PLDS - Phoenix LiveDashboard standalone - A quick demonstration &amp;nbsp;&lt;a href=&quot;https://www.youtube.com/watch?v=Rzl5BH8nb8M&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=Rzl5BH8nb8M&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Phoenix LiveView: dá mesmo para substituir o Javascript? Por Philip Sampaio &lt;a href=&quot;https://www.youtube.com/watch?v=3pB4Jl9Kfv4&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=3pB4Jl9Kfv4&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elug-SP#19 - Deploy de Aplicações Web em Elixir por Philip Sampaio &lt;a href=&quot;https://www.youtube.com/watch?v=S_ttb7N5mI0&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=S_ttb7N5mI0&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Lab &lt;a href=&quot;https://twitter.com/elixirlaborg&quot;&gt;&lt;u&gt;https://twitter.com/elixirlaborg&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nosso site é&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt; &lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt; &lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:39:14</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1643207649063-037b316b2a3a9.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>11</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[10. Elixir em Produção com Renan "Milhouse" Ranelli (Podium)]]></title>
+			<description><![CDATA[<p>No décimo episódio da série Elixir em Produção, conversamos com &nbsp;Renan Ranelli, o Milhouse, da Podium.</p>
+<p>Links do Renan:</p>
+<ul>
+ <li>Twitter do Renan Ranelli <a href="https://twitter.com/renanranelli"><u>https://twitter.com/renanranelli</u></a></li>
+ <li>Linkedin <a href="https://www.linkedin.com/in/renan-ranelli/"><u>https://www.linkedin.com/in/renan-ranelli/</u></a></li>
+ <li>GitHub <a href="https://github.com/rranelli"><u>https://github.com/rranelli</u></a></li>
+ <li>Telegram <a href="https://t.me/milhousedev"><u>https://t.me/milhousedev</u></a></li>
+ <li>Site da Podium <a href="https://www.podium.com/"><u>https://www.podium.com/</u></a></li>
+</ul>
+<p>Links recomendados:</p>
+<ul>
+ <li>Elixir Jobs <a href="https://t.me/elixir_jobs"><u>https://t.me/elixir_jobs</u></a></li>
+  <li>IRC de Elixir irc://irc.libera.chat/elixir</li>
+  <li>Renan esteve, com Guilherme Nogueira (de Maio, o Nirev), em 2017 no Castálio Podcast <a href="https://castalio.info/episodes/episodio-103-linguagem-de-programacao-elixir/"><u>https://castalio.info/episodes/episodio-103-linguagem-de-programacao-elixir/</u></a></li>
+  <li>Esteve no Sudocast #14 (10/06/2018) Programação Funcional 101 <a href="https://www.sudocast.com.br/14-programacao-funcional-101/"><u>https://www.sudocast.com.br/14-programacao-funcional-101/</u></a></li>
+  <li>InfoQ <a href="https://www.infoq.com/br/profile/Renan-Ranelli/"><u>https://www.infoq.com/br/profile/Renan-Ranelli/</u></a></li>
+  <li>ElixirConf 2017 &nbsp;Phoenix after 100000 lines <a href="https://www.conferencecast.tv/speaker-26447-renan-ranelli#.speakerPage-latest"><u>https://www.conferencecast.tv/speaker-26447-renan-ranelli#.speakerPage-latest</u></a></li>
+  <li>Playlist com apresentações de Renan Ranelli <a href="https://youtube.com/playlist?list=PLF5ttO8F-IsSiDXog5ZxYipDsqUuShrPn"><u>https://youtube.com/playlist?list=PLF5ttO8F-IsSiDXog5ZxYipDsqUuShrPn</u></a></li>
+</ul>
+<p>Nosso site é<a href="https://elixiremfoco.com/"> <u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco<a href="https://twitter.com/elixiremfoco"> <u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <u>elixiremfoco@gmail.com</u>.</p>
+<p>Edição do Episódio por: Douglas (Zero35) com apoio da Stone.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/10--Elixir-em-Produo-com-Renan-Milhouse-Ranelli-Podium-e1bc4e8</link>
+			<guid isPermaLink="false">ffe0af37-0cea-495c-8a2e-5dfe9e22797c</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 05 Jan 2022 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/44486536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-7%2Fad56625d-6391-8efc-1e2d-1b54540195e1.mp3" length="148036863" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;No décimo episódio da série Elixir em Produção, conversamos com &amp;nbsp;Renan Ranelli, o Milhouse, da Podium.&lt;/p&gt;
+&lt;p&gt;Links do Renan:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Twitter do Renan Ranelli &lt;a href=&quot;https://twitter.com/renanranelli&quot;&gt;&lt;u&gt;https://twitter.com/renanranelli&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Linkedin &lt;a href=&quot;https://www.linkedin.com/in/renan-ranelli/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/renan-ranelli/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;GitHub &lt;a href=&quot;https://github.com/rranelli&quot;&gt;&lt;u&gt;https://github.com/rranelli&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Telegram &lt;a href=&quot;https://t.me/milhousedev&quot;&gt;&lt;u&gt;https://t.me/milhousedev&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Site da Podium &lt;a href=&quot;https://www.podium.com/&quot;&gt;&lt;u&gt;https://www.podium.com/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links recomendados:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Elixir Jobs &lt;a href=&quot;https://t.me/elixir_jobs&quot;&gt;&lt;u&gt;https://t.me/elixir_jobs&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IRC de Elixir irc://irc.libera.chat/elixir&lt;/li&gt;
+  &lt;li&gt;Renan esteve, com Guilherme Nogueira (de Maio, o Nirev), em 2017 no Castálio Podcast &lt;a href=&quot;https://castalio.info/episodes/episodio-103-linguagem-de-programacao-elixir/&quot;&gt;&lt;u&gt;https://castalio.info/episodes/episodio-103-linguagem-de-programacao-elixir/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Esteve no Sudocast #14 (10/06/2018) Programação Funcional 101 &lt;a href=&quot;https://www.sudocast.com.br/14-programacao-funcional-101/&quot;&gt;&lt;u&gt;https://www.sudocast.com.br/14-programacao-funcional-101/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;InfoQ &lt;a href=&quot;https://www.infoq.com/br/profile/Renan-Ranelli/&quot;&gt;&lt;u&gt;https://www.infoq.com/br/profile/Renan-Ranelli/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ElixirConf 2017 &amp;nbsp;Phoenix after 100000 lines &lt;a href=&quot;https://www.conferencecast.tv/speaker-26447-renan-ranelli#.speakerPage-latest&quot;&gt;&lt;u&gt;https://www.conferencecast.tv/speaker-26447-renan-ranelli#.speakerPage-latest&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Playlist com apresentações de Renan Ranelli &lt;a href=&quot;https://youtube.com/playlist?list=PLF5ttO8F-IsSiDXog5ZxYipDsqUuShrPn&quot;&gt;&lt;u&gt;https://youtube.com/playlist?list=PLF5ttO8F-IsSiDXog5ZxYipDsqUuShrPn&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Nosso site é&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt; &lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt; &lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;.&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Douglas (Zero35) com apoio da Stone.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:01:32</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1643810136681-baf060f5772a5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[9. Elixir em Produção com Danilo Gonçalves e Jomaro Rodrigues (EBANX)]]></title>
+			<description><![CDATA[<p>No novo episódio da série Elixir em Produção, conversamos com Danilo Gonçalves, Software Engineering Manager no EBANX, e com Jomaro Rodrigues, Engenheiro de Software também no EBANX.&nbsp;</p>
+<p>Links dos participantes:</p>
+<p>- Linkedin do Danilo: <a href="https://www.linkedin.com/in/danilorg/"><u>https://www.linkedin.com/in/danilorg/</u></a><u>;</u></p>
+<p>- GitHub do Danilo <a href="https://github.com/danxexe"><u>https://github.com/danxexe</u></a><u>;</u></p>
+<p>- Linkedin do Jomaro: <a href="https://www.linkedin.com/in/jomaro-rodrigues-7443b655/"><u>https://www.linkedin.com/in/jomaro-rodrigues-7443b655/</u></a><u>;</u></p>
+<p>- GitHub do Jomaro <a href="https://github.com/jomaro"><u>https://github.com/jomaro</u></a><u>.</u></p>
+<p><br></p>
+<p>Links recomendados:</p>
+<p>- Elixir Brasil no Telegram <a href="https://t.me/elixirbr">https://t.me/elixirbr</a>;</p>
+<p>- Livro "Learn you Some Erlang for Great Good!", de Fred Hebert &nbsp;<a href="https://learnyousomeerlang.com/"><u>https://learnyousomeerlang.com/</u></a><u>;</u></p>
+<p>- Exercism <a href="https://exercism.io/">https://exercism.io/</a>;</p>
+<p>- Ler o código fonte do Elixir <a href="https://github.com/elixir-lang/elixir">https://github.com/elixir-lang/elixir</a>.</p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p>Edição do Episódio por: Douglas (Zero35) com apoio da Stone.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/9--Elixir-em-Produo-com-Danilo-Gonalves-e-Jomaro-Rodrigues-EBANX-e1aqnv0</link>
+			<guid isPermaLink="false">3aad541c-b03f-469e-8c7d-348281f0cf70</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 01 Dec 2021 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/43916704/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-25%2F4c16e006-413f-2331-a72b-02c8e9fb922c.mp3" length="69093580" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;No novo episódio da série Elixir em Produção, conversamos com Danilo Gonçalves, Software Engineering Manager no EBANX, e com Jomaro Rodrigues, Engenheiro de Software também no EBANX.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Links dos participantes:&lt;/p&gt;
+&lt;p&gt;- Linkedin do Danilo: &lt;a href=&quot;https://www.linkedin.com/in/danilorg/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/danilorg/&lt;/u&gt;&lt;/a&gt;&lt;u&gt;;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;- GitHub do Danilo &lt;a href=&quot;https://github.com/danxexe&quot;&gt;&lt;u&gt;https://github.com/danxexe&lt;/u&gt;&lt;/a&gt;&lt;u&gt;;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;- Linkedin do Jomaro: &lt;a href=&quot;https://www.linkedin.com/in/jomaro-rodrigues-7443b655/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/jomaro-rodrigues-7443b655/&lt;/u&gt;&lt;/a&gt;&lt;u&gt;;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;- GitHub do Jomaro &lt;a href=&quot;https://github.com/jomaro&quot;&gt;&lt;u&gt;https://github.com/jomaro&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links recomendados:&lt;/p&gt;
+&lt;p&gt;- Elixir Brasil no Telegram &lt;a href=&quot;https://t.me/elixirbr&quot;&gt;https://t.me/elixirbr&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;- Livro &quot;Learn you Some Erlang for Great Good!&quot;, de Fred Hebert &amp;nbsp;&lt;a href=&quot;https://learnyousomeerlang.com/&quot;&gt;&lt;u&gt;https://learnyousomeerlang.com/&lt;/u&gt;&lt;/a&gt;&lt;u&gt;;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;- Exercism &lt;a href=&quot;https://exercism.io/&quot;&gt;https://exercism.io/&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;- Ler o código fonte do Elixir &lt;a href=&quot;https://github.com/elixir-lang/elixir&quot;&gt;https://github.com/elixir-lang/elixir&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Douglas (Zero35) com apoio da Stone.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:28:42</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1637918849506-4192bd7c20dea.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Elixir Extra com José Valim na Elixir Brasil 2021]]></title>
+			<description><![CDATA[<p>Este é um episódio extra do Elixir em Foco, o podcast da comunidade brasileira de Elixir. Fomos convidados pela Elixir Brasil para entrevistar José Valim, criador de Elixir, ao vivo, durante o evento, no espaço Elixir Extra. A transmissão desta entrevista começa aos 3:18:34 Extra Elixir: Elixir em Foco com José Valim <a href="https://www.youtube.com/watch?v=QJiLO5G3xJs&amp;t=11914s">https://www.youtube.com/watch?v=QJiLO5G3xJs&amp;t=11914s</a>. A Elixir Brasil 2021 <a href="https://2021.elixirbrasil.com/pt/">https://2021.elixirbrasil.com/pt/</a> aconteceu nos dias 27 e 28 de novembro de 2021 e esta gravação foi no sia 27, sábado.&nbsp;Agradecemos ao João Britto, que participou no início e no fim deste episódio, à Alda Rocha, que nos convidou para o evento e a todos da organização da Elixir Brasil. Vários dos links mencionados na entrevista estão na descrição do episódio.</p>
+<p>João Britto <a href="https://twitter.com/noteu"><u>https://twitter.com/noteu</u></a></p>
+<p>José Valim <a href="https://twitter.com/josevalim"><u>https://twitter.com/josevalim</u></a></p>
+<p>Anúncio no Twitter <a href="https://twitter.com/josevalim/status/1461064540465078273"><u>https://twitter.com/josevalim/status/1461064540465078273</u></a></p>
+<p>Advent of Code <a href="https://adventofcode.com/"><u>https://adventofcode.com/</u></a></p>
+<p>Advent of Code 2021 <a href="https://adventofcode.com/2021"><u>https://adventofcode.com/2021</u></a></p>
+<p>José Valim na Twitch <a href="https://www.twitch.tv/josevalim"><u>https://www.twitch.tv/josevalim</u></a></p>
+<p>Advent of Code 2018 do Valim na Twitch <a href="https://www.twitch.tv/collections/YDM6eKu6bhV1Nw"><u>https://www.twitch.tv/collections/YDM6eKu6bhV1Nw</u></a></p>
+<p>Livebook <a href="https://livebook.dev/"><u>https://livebook.dev/</u></a></p>
+<p>Curso de Desenvolvimento Orientado a Tipos da UFABC <a href="https://haskell.pesquisa.ufabc.edu.br/cursos/08-desenvolvimento-orientado-a-tipos-2021/"><u>https://haskell.pesquisa.ufabc.edu.br/cursos/08-desenvolvimento-orientado-a-tipos-2021/</u></a></p>
+<p>Gleam <a href="https://gleam.run/"><u>https://gleam.run/</u></a></p>
+<p>Hamler <a href="https://www.hamler-lang.org/"><u>https://www.hamler-lang.org/</u></a></p>
+<p>Scala Z <a href="https://github.com/scalaz/scalaz"><u>https://github.com/scalaz/scalaz</u></a></p>
+<p>Jessica Kerr sobre Scala Z <a href="https://www.infoq.com/interviews/kerr-scala/"><u>https://www.infoq.com/interviews/kerr-scala/</u></a></p>
+<p>Numerical Elixir (Nx) <a href="https://github.com/elixir-nx"><u>https://github.com/elixir-nx</u></a></p>
+<p>Sean Moriarity <a href="https://twitter.com/sean_moriarity"><u>https://twitter.com/sean_moriarity</u></a></p>
+<p>Livro do Sean: Genetic Algorithms in Elixir <a href="https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/"><u>https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/</u></a></p>
+<p>Tensor Processing Unit da Google <a href="https://cloud.google.com/tpu"><u>https://cloud.google.com/tpu</u></a></p>
+<p>Phoenix Framework <a href="https://www.phoenixframework.org/"><u>https://www.phoenixframework.org/</u></a></p>
+<p>Elixir Fountain <a href="https://twitter.com/elixirfountain"><u>https://twitter.com/elixirfountain</u></a> <a href="https://soundcloud.com/elixirfountain"><u>https://soundcloud.com/elixirfountain</u></a></p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Elixir-Extra-com-Jos-Valim-na-Elixir-Brasil-2021-e1avobn</link>
+			<guid isPermaLink="false">abeaf743-87e2-45f3-9a72-97d7930e0f1a</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Mon, 29 Nov 2021 16:54:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/44080951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-11-29%2F787ddaf5a85317d7b1fe5b9aaa1e5f54.m4a" length="28841288" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Este é um episódio extra do Elixir em Foco, o podcast da comunidade brasileira de Elixir. Fomos convidados pela Elixir Brasil para entrevistar José Valim, criador de Elixir, ao vivo, durante o evento, no espaço Elixir Extra. A transmissão desta entrevista começa aos 3:18:34 Extra Elixir: Elixir em Foco com José Valim &lt;a href=&quot;https://www.youtube.com/watch?v=QJiLO5G3xJs&amp;amp;t=11914s&quot;&gt;https://www.youtube.com/watch?v=QJiLO5G3xJs&amp;amp;t=11914s&lt;/a&gt;. A Elixir Brasil 2021 &lt;a href=&quot;https://2021.elixirbrasil.com/pt/&quot;&gt;https://2021.elixirbrasil.com/pt/&lt;/a&gt; aconteceu nos dias 27 e 28 de novembro de 2021 e esta gravação foi no sia 27, sábado.&amp;nbsp;Agradecemos ao João Britto, que participou no início e no fim deste episódio, à Alda Rocha, que nos convidou para o evento e a todos da organização da Elixir Brasil. Vários dos links mencionados na entrevista estão na descrição do episódio.&lt;/p&gt;
+&lt;p&gt;João Britto &lt;a href=&quot;https://twitter.com/noteu&quot;&gt;&lt;u&gt;https://twitter.com/noteu&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;José Valim &lt;a href=&quot;https://twitter.com/josevalim&quot;&gt;&lt;u&gt;https://twitter.com/josevalim&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Anúncio no Twitter &lt;a href=&quot;https://twitter.com/josevalim/status/1461064540465078273&quot;&gt;&lt;u&gt;https://twitter.com/josevalim/status/1461064540465078273&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Advent of Code &lt;a href=&quot;https://adventofcode.com/&quot;&gt;&lt;u&gt;https://adventofcode.com/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Advent of Code 2021 &lt;a href=&quot;https://adventofcode.com/2021&quot;&gt;&lt;u&gt;https://adventofcode.com/2021&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;José Valim na Twitch &lt;a href=&quot;https://www.twitch.tv/josevalim&quot;&gt;&lt;u&gt;https://www.twitch.tv/josevalim&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Advent of Code 2018 do Valim na Twitch &lt;a href=&quot;https://www.twitch.tv/collections/YDM6eKu6bhV1Nw&quot;&gt;&lt;u&gt;https://www.twitch.tv/collections/YDM6eKu6bhV1Nw&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Livebook &lt;a href=&quot;https://livebook.dev/&quot;&gt;&lt;u&gt;https://livebook.dev/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Curso de Desenvolvimento Orientado a Tipos da UFABC &lt;a href=&quot;https://haskell.pesquisa.ufabc.edu.br/cursos/08-desenvolvimento-orientado-a-tipos-2021/&quot;&gt;&lt;u&gt;https://haskell.pesquisa.ufabc.edu.br/cursos/08-desenvolvimento-orientado-a-tipos-2021/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Gleam &lt;a href=&quot;https://gleam.run/&quot;&gt;&lt;u&gt;https://gleam.run/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Hamler &lt;a href=&quot;https://www.hamler-lang.org/&quot;&gt;&lt;u&gt;https://www.hamler-lang.org/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Scala Z &lt;a href=&quot;https://github.com/scalaz/scalaz&quot;&gt;&lt;u&gt;https://github.com/scalaz/scalaz&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jessica Kerr sobre Scala Z &lt;a href=&quot;https://www.infoq.com/interviews/kerr-scala/&quot;&gt;&lt;u&gt;https://www.infoq.com/interviews/kerr-scala/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Numerical Elixir (Nx) &lt;a href=&quot;https://github.com/elixir-nx&quot;&gt;&lt;u&gt;https://github.com/elixir-nx&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Sean Moriarity &lt;a href=&quot;https://twitter.com/sean_moriarity&quot;&gt;&lt;u&gt;https://twitter.com/sean_moriarity&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Livro do Sean: Genetic Algorithms in Elixir &lt;a href=&quot;https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/&quot;&gt;&lt;u&gt;https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tensor Processing Unit da Google &lt;a href=&quot;https://cloud.google.com/tpu&quot;&gt;&lt;u&gt;https://cloud.google.com/tpu&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Phoenix Framework &lt;a href=&quot;https://www.phoenixframework.org/&quot;&gt;&lt;u&gt;https://www.phoenixframework.org/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Elixir Fountain &lt;a href=&quot;https://twitter.com/elixirfountain&quot;&gt;&lt;u&gt;https://twitter.com/elixirfountain&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://soundcloud.com/elixirfountain&quot;&gt;&lt;u&gt;https://soundcloud.com/elixirfountain&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:29:43</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1638193989588-de2b8f7587a4c.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Swap abre 30 vagas para área de tecnologia e faz processo seletivo exclusivo para pessoas inscritas no Elixir Brasil 2021]]></title>
+			<description><![CDATA[<p>Página de carreiras da Swap: https://www.swap.financial/carreiras</p>
+<p>Elixir Brasil 2021: https://twitter.com/elixir_brasil</p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p><br></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Swap-abre-30-vagas-para-rea-de-tecnologia-e-faz-processo-seletivo-exclusivo-para-pessoas-inscritas-no-Elixir-Brasil-2021-e1aoj08</link>
+			<guid isPermaLink="false">088c57d3-2798-4e16-8e2e-ac15a47751a1</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 24 Nov 2021 19:24:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/43846088/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-24%2F095b4193-6265-2ee8-50d8-9e8c815b8e85.mp3" length="3115131" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Página de carreiras da Swap: https://www.swap.financial/carreiras&lt;/p&gt;
+&lt;p&gt;Elixir Brasil 2021: https://twitter.com/elixir_brasil&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:03:05</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo400/12866474/12866474-1614898270148-b7578230cdb26.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[8. Elixir em Produção com Willian Frantz (Trybe) e Letícia Silva]]></title>
+			<description><![CDATA[<p><strong>No oitavo episódio da série Elixir em Produção</strong>, conversamos com Willian Frantz, Alquimista de Software na Trybe e com Letícia Silva, que é &nbsp;&nbsp;&nbsp;DSC Lead, Cientista de dados, professora de programação e criadora de conteúdo.</p>
+<p><br></p>
+<p>Links do Wllian:</p>
+<ol>
+ <li>Linkedin &nbsp;<a href="https://www.linkedin.com/in/willianfrantz/">https://www.linkedin.com/in/willianfrantz/</a><u>.</u></li>
+ <li>Twitter <a href="https://twitter.com/frantz_willian">https://twitter.com/frantz_willian</a></li>
+ <li>Blog <a href="https://dev.to/wlsf/"><u>https://dev.to/wlsf/</u></a></li>
+ <li>Palestra na ElixirConf EU 2021: Diving into Ecto.Query <a href="https://www.elixirconf.eu/talks/diving-into-ecto.query/"><u>https://www.elixirconf.eu/talks/diving-into-ecto.query/</u></a> <a href="https://www.elixirconf.eu/participants/willian-frantz/"><u>https://www.elixirconf.eu/participants/willian-frantz/</u></a></li>
+ <li>Palestra na Code Beam America 2021: &nbsp;USING NEO4J AND THE BEAM TO EVALUATE STUDENTS' PROFICIENCY <a href="https://codesync.global/speaker/willian-frantz/"><u>https://codesync.global/speaker/willian-frantz/</u></a></li>
+</ol>
+<p><br></p>
+<p>Links da Letícia:</p>
+<ol>
+ <li>Linkedin <a href="https://www.linkedin.com/in/leticiasilvar/"><u>https://www.linkedin.com/in/leticiasilvar/</u></a></li>
+  <li>Twitter <a href="https://twitter.com/dii_lua">https://twitter.com/dii_lua</a></li>
+  <li>Letícia Silva no Emílias Podcast - Parte 1 <a href="https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-1-ed4i23">https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-1-ed4i23</a></li>
+  <li>Letícia Silva no Emílias Podcast - Parte 2 <a href="https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-2-eddms9">https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-2-eddms9</a></li>
+</ol>
+<p>Botech-in #2 - Alda Rocha e João Britto <a href="https://www.twitch.tv/dii_lua/video/1158263346">https://www.twitch.tv/dii_lua/video/1158263346</a>&nbsp;</p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p>Edição do Episódio por: Douglas (Zero35) com apoio da Stone.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/8--Elixir-em-Produo-com-Willian-Frantz-Trybe-e-Letcia-Silva-e195av1</link>
+			<guid isPermaLink="false">5a11e458-48de-4676-84d8-cb132f33dd1e</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 03 Nov 2021 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/42166689/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-22%2Fd6f82744-ec08-0d23-241b-019aeba2f392.mp3" length="107732192" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;No oitavo episódio da série Elixir em Produção&lt;/strong&gt;, conversamos com Willian Frantz, Alquimista de Software na Trybe e com Letícia Silva, que é &amp;nbsp;&amp;nbsp;&amp;nbsp;DSC Lead, Cientista de dados, professora de programação e criadora de conteúdo.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links do Wllian:&lt;/p&gt;
+&lt;ol&gt;
+ &lt;li&gt;Linkedin &amp;nbsp;&lt;a href=&quot;https://www.linkedin.com/in/willianfrantz/&quot;&gt;https://www.linkedin.com/in/willianfrantz/&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/li&gt;
+ &lt;li&gt;Twitter &lt;a href=&quot;https://twitter.com/frantz_willian&quot;&gt;https://twitter.com/frantz_willian&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Blog &lt;a href=&quot;https://dev.to/wlsf/&quot;&gt;&lt;u&gt;https://dev.to/wlsf/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Palestra na ElixirConf EU 2021: Diving into Ecto.Query &lt;a href=&quot;https://www.elixirconf.eu/talks/diving-into-ecto.query/&quot;&gt;&lt;u&gt;https://www.elixirconf.eu/talks/diving-into-ecto.query/&lt;/u&gt;&lt;/a&gt; &lt;a href=&quot;https://www.elixirconf.eu/participants/willian-frantz/&quot;&gt;&lt;u&gt;https://www.elixirconf.eu/participants/willian-frantz/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Palestra na Code Beam America 2021: &amp;nbsp;USING NEO4J AND THE BEAM TO EVALUATE STUDENTS&apos; PROFICIENCY &lt;a href=&quot;https://codesync.global/speaker/willian-frantz/&quot;&gt;&lt;u&gt;https://codesync.global/speaker/willian-frantz/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Links da Letícia:&lt;/p&gt;
+&lt;ol&gt;
+ &lt;li&gt;Linkedin &lt;a href=&quot;https://www.linkedin.com/in/leticiasilvar/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/leticiasilvar/&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Twitter &lt;a href=&quot;https://twitter.com/dii_lua&quot;&gt;https://twitter.com/dii_lua&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Letícia Silva no Emílias Podcast - Parte 1 &lt;a href=&quot;https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-1-ed4i23&quot;&gt;https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-1-ed4i23&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Letícia Silva no Emílias Podcast - Parte 2 &lt;a href=&quot;https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-2-eddms9&quot;&gt;https://anchor.fm/emilias-podcast/episodes/Letcia-Silva-Head-de-Cincia-de-Dados-na-2MI-parte-2-eddms9&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Botech-in #2 - Alda Rocha e João Britto &lt;a href=&quot;https://www.twitch.tv/dii_lua/video/1158263346&quot;&gt;https://www.twitch.tv/dii_lua/video/1158263346&lt;/a&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Douglas (Zero35) com apoio da Stone.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:44:53</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1635183834246-b8e3edc590b47.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>8</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Mesa Redonda com Pedro Castilho, Vitor Leal e Elaine Naomi Watanabe]]></title>
+			<description><![CDATA[<p>Conversamos com as pessoas entrevistadas nos nossos três primeiros episódios. Algumas das perguntas foram:</p>
+<ul>
+ <li>Quando você tem uma dúvida, o que você faz?</li>
+ <li>Quais as iniciativas da comunidade de que vocês mais gostam?</li>
+  <li>Quais bibliotecas vocês gostariam que tivesse no Elixir e não tem?</li>
+  <li>Quais as visões de futuro para o Elixir nos próximos anos?</li>
+  <li>Qual o melhor lugar para aprender sobre Elixir?</li>
+</ul>
+<p>Além disso, cada um fez uma pergunta para os outros dois.</p>
+<p>As pessoas foram:</p>
+<ul>
+  <li>Pedro Castilho, CTO da Comadre <a href="https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Pedro-Castilho--CTO-da-Comadre-eu9uj2"><u>https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Pedro-Castilho--CTO-da-Comadre-eu9uj2</u></a></li>
+  <li>Vitor Leal, CTO da Solfácil <a href="https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Vitor-Leal--CTO-da-Solfcil-e101sbf"><u>https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Vitor-Leal--CTO-da-Solfcil-e101sbf</u></a></li>
+  <li>Elaine Naomi Watanabe, Engenharia de Software na The RealReal <a href="https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Elaine-Naomi-Watanabe--Engenharia-de-Software-na-The-RealReal-e11pbsk"><u>https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Elaine-Naomi-Watanabe--Engenharia-de-Software-na-The-RealReal-e11pbsk</u></a></li>
+</ul>
+<p>Alguns links:</p>
+<p>Livebook <a href="https://livebook.dev/"><u>https://livebook.dev/</u></a></p>
+<p>Nx <a href="https://github.com/elixir-nx/nx"><u>https://github.com/elixir-nx/nx</u></a></p>
+<p>Erlang Ecosystem Foundation <a href="https://twitter.com/TheErlef"><u>https://twitter.com/TheErlef</u></a></p>
+<p>Elixir Brasil <a href="https://twitter.com/elixir_brasil"><u>https://twitter.com/elixir_brasil</u></a></p>
+<p>Devise <a href="https://blog.plataformatec.com.br/tag/devise/"><u>https://blog.plataformatec.com.br/tag/devise/</u></a></p>
+<p>Links para a pergunta “Qual o melhor lugar para aprender sobre Elixir?”</p>
+<p>Castilho: Site da Linguagem <a href="https://elixir-lang.org/getting-started/introduction.html"><u>https://elixir-lang.org/getting-started/introduction.html</u></a></p>
+<p>Elaine: Elixir School <a href="https://elixirschool.com/"><u>https://elixirschool.com/</u></a> &nbsp;e livro do Ulisses <a href="https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/"><u>https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/</u></a></p>
+<p>Vitor: Elixir School, documentação do Elixir, Exercism <a href="https://exercism.io/"><u>https://exercism.io/</u></a></p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p>Edição do Episódio por: Daniel Leite Pires (Stone).</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Mesa-Redonda-com-Pedro-Castilho--Vitor-Leal-e-Elaine-Naomi-Watanabe-e18q6rq</link>
+			<guid isPermaLink="false">11de00b7-f41d-4dec-8f42-eb5cd395212c</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 20 Oct 2021 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/41802042/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-14%2F09edba09-ad86-1e86-bef1-6aec66296c93.mp3" length="102142112" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Conversamos com as pessoas entrevistadas nos nossos três primeiros episódios. Algumas das perguntas foram:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Quando você tem uma dúvida, o que você faz?&lt;/li&gt;
+ &lt;li&gt;Quais as iniciativas da comunidade de que vocês mais gostam?&lt;/li&gt;
+  &lt;li&gt;Quais bibliotecas vocês gostariam que tivesse no Elixir e não tem?&lt;/li&gt;
+  &lt;li&gt;Quais as visões de futuro para o Elixir nos próximos anos?&lt;/li&gt;
+  &lt;li&gt;Qual o melhor lugar para aprender sobre Elixir?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Além disso, cada um fez uma pergunta para os outros dois.&lt;/p&gt;
+&lt;p&gt;As pessoas foram:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Pedro Castilho, CTO da Comadre &lt;a href=&quot;https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Pedro-Castilho--CTO-da-Comadre-eu9uj2&quot;&gt;&lt;u&gt;https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Pedro-Castilho--CTO-da-Comadre-eu9uj2&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Vitor Leal, CTO da Solfácil &lt;a href=&quot;https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Vitor-Leal--CTO-da-Solfcil-e101sbf&quot;&gt;&lt;u&gt;https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Vitor-Leal--CTO-da-Solfcil-e101sbf&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elaine Naomi Watanabe, Engenharia de Software na The RealReal &lt;a href=&quot;https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Elaine-Naomi-Watanabe--Engenharia-de-Software-na-The-RealReal-e11pbsk&quot;&gt;&lt;u&gt;https://anchor.fm/elixiremfoco/episodes/Elixir-em-Produo-com-Elaine-Naomi-Watanabe--Engenharia-de-Software-na-The-RealReal-e11pbsk&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Alguns links:&lt;/p&gt;
+&lt;p&gt;Livebook &lt;a href=&quot;https://livebook.dev/&quot;&gt;&lt;u&gt;https://livebook.dev/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nx &lt;a href=&quot;https://github.com/elixir-nx/nx&quot;&gt;&lt;u&gt;https://github.com/elixir-nx/nx&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Erlang Ecosystem Foundation &lt;a href=&quot;https://twitter.com/TheErlef&quot;&gt;&lt;u&gt;https://twitter.com/TheErlef&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Elixir Brasil &lt;a href=&quot;https://twitter.com/elixir_brasil&quot;&gt;&lt;u&gt;https://twitter.com/elixir_brasil&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Devise &lt;a href=&quot;https://blog.plataformatec.com.br/tag/devise/&quot;&gt;&lt;u&gt;https://blog.plataformatec.com.br/tag/devise/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Links para a pergunta “Qual o melhor lugar para aprender sobre Elixir?”&lt;/p&gt;
+&lt;p&gt;Castilho: Site da Linguagem &lt;a href=&quot;https://elixir-lang.org/getting-started/introduction.html&quot;&gt;&lt;u&gt;https://elixir-lang.org/getting-started/introduction.html&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Elaine: Elixir School &lt;a href=&quot;https://elixirschool.com/&quot;&gt;&lt;u&gt;https://elixirschool.com/&lt;/u&gt;&lt;/a&gt; &amp;nbsp;e livro do Ulisses &lt;a href=&quot;https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/&quot;&gt;&lt;u&gt;https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Vitor: Elixir School, documentação do Elixir, Exercism &lt;a href=&quot;https://exercism.io/&quot;&gt;&lt;u&gt;https://exercism.io/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>01:10:55</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1634671425830-e3797b290fc66.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[7. Elixir em Produção com Daniel Pilon, Gerente de Engenharia na SumUp]]></title>
+			<description><![CDATA[<p><strong>No sétimo episódio da série Elixir em Produção</strong>, conversamos com Daniel Pilon, Engineering Manager na SumUp. Encontre o Daniel no Linkedin em <a href="https://www.linkedin.com/in/daniel-pilon/"><u>https://www.linkedin.com/in/daniel-pilon/</u></a><u>.</u>&nbsp;</p>
+<p>Ele se apresenta em seu Twitter como “Engenheiro de software (in love with Elixir). &nbsp;@SumUpEng. Cinéfilo não praticante. Frequentador de show (sdds). Etílico. Gateiro. Ele/Dele.“ <a href="https://twitter.com/daniel_pilon" target="_blank">https://twitter.com/daniel_pilon</a>.</p>
+<p>O GitHub do Daniel é <a href="http://github.com/danielpilon"><u>http://github.com/danielpilon</u></a><u>.</u></p>
+<p>Página de carreiras da SumUp <a href="https://sumup.com.br/carreiras/cultura/">https://sumup.com.br/carreiras/cultura/</a></p>
+<p>Slides de apresentações do Daniel:</p>
+<ul>
+ <li>Diagnosing bugs in production with Elixir <a href="https://speakerdeck.com/pilon/diagnosing-bugs-in-production-with-elixir"><u>https://speakerdeck.com/pilon/diagnosing-bugs-in-production-with-elixir</u></a></li>
+ <li>Elixir no SumUp Bank - Por que e como? <a href="https://speakerdeck.com/pilon/elixir-no-sumup-bank-por-que-e-como"><u>https://speakerdeck.com/pilon/elixir-no-sumup-bank-por-que-e-como</u></a></li>
+</ul>
+<p>Pergunta que veio do Twitter: Joel Jucá (ELUG CE) - Olhando pra trás hoje, quais foram os maiores benefícios na sua carreira e no fruto do seu trabalho ao investir na transição para Elixir/FP? <a href="https://twitter.com/elixiremfoco/status/1432351344925499393"><u>https://twitter.com/elixiremfoco/status/1432351344925499393</u></a></p>
+<p>Palestra Georgina (citada por Hermínio) - SOLID Elixir - <a href="https://www.youtube.com/watch?v=rmftOs2BzgU"><u>https://www.youtube.com/watch?v=rmftOs2BzgU</u></a></p>
+<p>Livro do Fred Hebert - Erlang in Anger &nbsp;<a href="https://www.erlang-in-anger.com/"><u>https://www.erlang-in-anger.com/</u></a></p>
+<p>Livro de Concurrent Data Processing in Elixir - <a href="https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/"><u>https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/</u></a></p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p>Edição do Episódio por: Douglas (Zero35) com apoio da Stone.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/7--Elixir-em-Produo-com-Daniel-Pilon--Gerente-de-Engenharia-na-SumUp-e1834dp</link>
+			<guid isPermaLink="false">9a334b6a-aa2d-452f-9617-837380822d22</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 06 Oct 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/41045881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-8-29%2F244c279c-6dda-5a86-c42a-611e7485e56e.mp3" length="36404676" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;No sétimo episódio da série Elixir em Produção&lt;/strong&gt;, conversamos com Daniel Pilon, Engineering Manager na SumUp. Encontre o Daniel no Linkedin em &lt;a href=&quot;https://www.linkedin.com/in/daniel-pilon/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/daniel-pilon/&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Ele se apresenta em seu Twitter como “Engenheiro de software (in love with Elixir). &amp;nbsp;@SumUpEng. Cinéfilo não praticante. Frequentador de show (sdds). Etílico. Gateiro. Ele/Dele.“ &lt;a href=&quot;https://twitter.com/daniel_pilon&quot; target=&quot;_blank&quot;&gt;https://twitter.com/daniel_pilon&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O GitHub do Daniel é &lt;a href=&quot;http://github.com/danielpilon&quot;&gt;&lt;u&gt;http://github.com/danielpilon&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Página de carreiras da SumUp &lt;a href=&quot;https://sumup.com.br/carreiras/cultura/&quot;&gt;https://sumup.com.br/carreiras/cultura/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Slides de apresentações do Daniel:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Diagnosing bugs in production with Elixir &lt;a href=&quot;https://speakerdeck.com/pilon/diagnosing-bugs-in-production-with-elixir&quot;&gt;&lt;u&gt;https://speakerdeck.com/pilon/diagnosing-bugs-in-production-with-elixir&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;Elixir no SumUp Bank - Por que e como? &lt;a href=&quot;https://speakerdeck.com/pilon/elixir-no-sumup-bank-por-que-e-como&quot;&gt;&lt;u&gt;https://speakerdeck.com/pilon/elixir-no-sumup-bank-por-que-e-como&lt;/u&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pergunta que veio do Twitter: Joel Jucá (ELUG CE) - Olhando pra trás hoje, quais foram os maiores benefícios na sua carreira e no fruto do seu trabalho ao investir na transição para Elixir/FP? &lt;a href=&quot;https://twitter.com/elixiremfoco/status/1432351344925499393&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco/status/1432351344925499393&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Palestra Georgina (citada por Hermínio) - SOLID Elixir - &lt;a href=&quot;https://www.youtube.com/watch?v=rmftOs2BzgU&quot;&gt;&lt;u&gt;https://www.youtube.com/watch?v=rmftOs2BzgU&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Livro do Fred Hebert - Erlang in Anger &amp;nbsp;&lt;a href=&quot;https://www.erlang-in-anger.com/&quot;&gt;&lt;u&gt;https://www.erlang-in-anger.com/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Livro de Concurrent Data Processing in Elixir - &lt;a href=&quot;https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/&quot;&gt;&lt;u&gt;https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Douglas (Zero35) com apoio da Stone.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:41:30</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1632951927841-356d8ea97c25c.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>7</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[6. Elixir em Produção com Jader Correa e Anderson Konzen, da Árvore]]></title>
+			<description><![CDATA[<p>Neste episódio do Elixir em Foco, conversamos com Jader Correa, CTO da Árvore, e Anderson Konzen, Líder Técnico também na Árvore.</p>
+<p>Anderson Konzen</p>
+<p><a href="https://www.linkedin.com/in/andersonkonzen/?originalSubdomain=br"><u>https://www.linkedin.com/in/andersonkonzen/</u></a></p>
+<p>Jader Correa</p>
+<p><a href="https://www.linkedin.com/in/jader-correa-2604ba34/"><u>https://www.linkedin.com/in/jader-correa-2604ba34/</u></a></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p><strong>Edição do Episódio por: Daniel Leite Pires (Stone).</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/6--Elixir-em-Produo-com-Jader-Correa-e-Anderson-Konzen--da-rvore-e16lugj</link>
+			<guid isPermaLink="false">6ef0091c-a18a-4df7-8afa-1ee348c8dc48</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 01 Sep 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/39565267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-7-30%2Fd1207e74-ffad-5e6b-518a-056de94ce8d4.mp3" length="60777774" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste episódio do Elixir em Foco, conversamos com Jader Correa, CTO da Árvore, e Anderson Konzen, Líder Técnico também na Árvore.&lt;/p&gt;
+&lt;p&gt;Anderson Konzen&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/andersonkonzen/?originalSubdomain=br&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/andersonkonzen/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Jader Correa&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/jader-correa-2604ba34/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/jader-correa-2604ba34/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:42:12</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1630424511652-84c54e2c63cbd.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>6</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Participe da SpawnFest 2021!]]></title>
+			<description><![CDATA[<p>A SpawnFest é uma competição anual de desenvolvimento de software funcional online com 48 horas de duração, na qual equipes de 1 a 4 &nbsp;pessoas de todo o mundo podem criar a melhor aplicação baseada na BEAM que elas podem, e há prêmios também!</p>
+<p>A aplicação pode ser escrita em Erlang, Elixir, LFE, Gleam, Clojerl, Luerl , Caramel, etc.</p>
+<p>O site da SpawnFest é <a href="//spawnfest.org" target="_blank">spawnfest.org</a>.</p>
+<p><br>
+Aqui um vídeo sobre a SpawnFest: <a href="https://youtu.be/KphxN-0rlXY">https://youtu.be/KphxN-0rlXY</a>.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Participe-da-SpawnFest-2021-e16bblp</link>
+			<guid isPermaLink="false">7ab5422c-5454-43fe-9577-35e731d9e931</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Tue, 24 Aug 2021 14:34:02 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/39218297/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-08-24%2F0b8a47dc967abe64d719ea89957c57ad.m4a" length="4096630" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;A SpawnFest é uma competição anual de desenvolvimento de software funcional online com 48 horas de duração, na qual equipes de 1 a 4 &amp;nbsp;pessoas de todo o mundo podem criar a melhor aplicação baseada na BEAM que elas podem, e há prêmios também!&lt;/p&gt;
+&lt;p&gt;A aplicação pode ser escrita em Erlang, Elixir, LFE, Gleam, Clojerl, Luerl , Caramel, etc.&lt;/p&gt;
+&lt;p&gt;O site da SpawnFest é &lt;a href=&quot;//spawnfest.org&quot; target=&quot;_blank&quot;&gt;spawnfest.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Aqui um vídeo sobre a SpawnFest: &lt;a href=&quot;https://youtu.be/KphxN-0rlXY&quot;&gt;https://youtu.be/KphxN-0rlXY&lt;/a&gt;.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:04:13</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_nologo/12866474/12866474-1614898273212-e4a057b2d5a0e.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[5. Elixir em Produção com Rachel Curioso, Consultora na Erlang Solutions]]></title>
+			<description><![CDATA[<p><strong>No quinto episódio da série Elixir em Produção</strong>, conversamos com Rachel Curioso, <strong>Consultora na Erlang Solutions</strong>. Encontre a Rachel no Twitter em @_rchc e no LinkedIn <a href="https://www.linkedin.com/in/rachc/"><u>https://www.linkedin.com/in/rachc/</u></a><u>.</u></p>
+<p><br></p>
+<p><strong>Links:</strong></p>
+<p><strong>Elixir Lab - difundindo a linguagem de programação Elixir em Português </strong><a href="https://elixirlab.org/"><u><strong>https://elixirlab.org/</strong></u></a></p>
+<p><strong>Erlang Solutions &nbsp;</strong><a href="https://www.erlang-solutions.com/"><u><strong>https://www.erlang-solutions.com/</strong></u></a></p>
+<p><strong>Alda Rocha </strong><a href="https://twitter.com/mjcoffeeholick"><u><strong>https://twitter.com/mjcoffeeholick</strong></u></a></p>
+<p><strong>Elixir School </strong><a href="https://elixirschool.com/pt/"><u><strong>https://elixirschool.com/pt/</strong></u></a></p>
+<p><strong>Learn Functional Programming with Elixir: New Foundations for a New World</strong></p>
+<p><a href="https://www.goodreads.com/book/show/34637919-learn-functional-programming-with-elixir"><u><strong>https://www.goodreads.com/book/show/34637919-learn-functional-programming-with-elixir</strong></u></a></p>
+<p><strong>Code Beam Brasil </strong><a href="https://www.codebeambr.com/"><u><strong>https://www.codebeambr.com/</strong></u></a></p>
+<p><strong>Aprenda Erlang Para Um Grande Bem </strong><a href="https://youtube.com/playlist?list=PLF5ttO8F-IsTided30sMhUx-5Rfyeur65"><u><strong>https://youtube.com/playlist?list=PLF5ttO8F-IsTided30sMhUx-5Rfyeur65</strong></u></a></p>
+<p><strong>Perguntas feitas pelo Twitter:</strong></p>
+<p><strong>- </strong><a href="https://twitter.com/elixir_utfpr/status/1417121662059925504?s=20"><u><strong>https://twitter.com/elixir_utfpr/status/1417121662059925504?s=20</strong></u></a></p>
+<p><strong>- </strong><a href="https://twitter.com/nirev/status/1416406777936089089?s=20"><u><strong>https://twitter.com/nirev/status/1416406777936089089?s=20</strong></u></a></p>
+<p><strong>- </strong><a href="https://twitter.com/rogerleite/status/1416411164163117059"><u><strong>https://twitter.com/rogerleite/status/1416411164163117059</strong></u></a></p>
+<p><strong>- </strong><a href="https://twitter.com/holyshtjoe/status/1416415554299179012"><u><strong>https://twitter.com/holyshtjoe/status/1416415554299179012</strong></u></a></p>
+<p><strong>- </strong><a href="https://twitter.com/vcr2/status/1416418343448453121?s=20"><u><strong>https://twitter.com/vcr2/status/1416418343448453121?s=20</strong></u></a></p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Edição do Episódio por: Daniel Leite Pires (Stone).</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/5--Elixir-em-Produo-com-Rachel-Curioso--Consultora-na-Erlang-Solutions-e156vgq</link>
+			<guid isPermaLink="false">ed207250-738f-4925-be1e-d5f3368b1dfa</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 04 Aug 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/38026202/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-6-29%2Fabafece8-a4fb-6e47-ee7c-bf5eed6b5b57.mp3" length="50430510" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;No quinto episódio da série Elixir em Produção&lt;/strong&gt;, conversamos com Rachel Curioso, &lt;strong&gt;Consultora na Erlang Solutions&lt;/strong&gt;. Encontre a Rachel no Twitter em @_rchc e no LinkedIn &lt;a href=&quot;https://www.linkedin.com/in/rachc/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/rachc/&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elixir Lab - difundindo a linguagem de programação Elixir em Português &lt;/strong&gt;&lt;a href=&quot;https://elixirlab.org/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://elixirlab.org/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Erlang Solutions &amp;nbsp;&lt;/strong&gt;&lt;a href=&quot;https://www.erlang-solutions.com/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.erlang-solutions.com/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Alda Rocha &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/mjcoffeeholick&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/mjcoffeeholick&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elixir School &lt;/strong&gt;&lt;a href=&quot;https://elixirschool.com/pt/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://elixirschool.com/pt/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn Functional Programming with Elixir: New Foundations for a New World&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/34637919-learn-functional-programming-with-elixir&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.goodreads.com/book/show/34637919-learn-functional-programming-with-elixir&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Code Beam Brasil &lt;/strong&gt;&lt;a href=&quot;https://www.codebeambr.com/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.codebeambr.com/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Aprenda Erlang Para Um Grande Bem &lt;/strong&gt;&lt;a href=&quot;https://youtube.com/playlist?list=PLF5ttO8F-IsTided30sMhUx-5Rfyeur65&quot;&gt;&lt;u&gt;&lt;strong&gt;https://youtube.com/playlist?list=PLF5ttO8F-IsTided30sMhUx-5Rfyeur65&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Perguntas feitas pelo Twitter:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixir_utfpr/status/1417121662059925504?s=20&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixir_utfpr/status/1417121662059925504?s=20&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/nirev/status/1416406777936089089?s=20&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/nirev/status/1416406777936089089?s=20&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/rogerleite/status/1416411164163117059&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/rogerleite/status/1416411164163117059&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/holyshtjoe/status/1416415554299179012&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/holyshtjoe/status/1416415554299179012&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;- &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/vcr2/status/1416418343448453121?s=20&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/vcr2/status/1416418343448453121?s=20&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:35:00</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1627933565206-8afb5d4196ad5.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>5</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[4. Elixir em Produção com Paulo Valente, Backend Tech Leader na Stone]]></title>
+			<description><![CDATA[<p>Neste quarto episódio da série Elixir em Produção, conversamos com Paulo Valente, Backend Tech Leader na Stone. Encontre o Paulo no Twitter <a href="https://twitter.com/polvalente">@polvalente,</a> no Telegram @polvalente e no LinkedIn <a href="https://www.linkedin.com/in/polvalente/"><u>https://www.linkedin.com/in/polvalente/</u></a></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p><strong>Edição do Episódio por: Daniel Leite Pires (Stone).</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/4--Elixir-em-Produo-com-Paulo-Valente--Backend-Tech-Leader-na-Stone-e13kt6p</link>
+			<guid isPermaLink="false">59c3a16e-e076-49d9-abeb-c12f6dae8d55</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 30 Jun 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/36385433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-29%2Fd64c6485-9487-a34f-5ede-5afc1061a91f.mp3" length="47545376" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;Neste quarto episódio da série Elixir em Produção, conversamos com Paulo Valente, Backend Tech Leader na Stone. Encontre o Paulo no Twitter &lt;a href=&quot;https://twitter.com/polvalente&quot;&gt;@polvalente,&lt;/a&gt; no Telegram @polvalente e no LinkedIn &lt;a href=&quot;https://www.linkedin.com/in/polvalente/&quot;&gt;&lt;u&gt;https://www.linkedin.com/in/polvalente/&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:01</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1625001913574-e736d0a71570a.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>4</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Code BEAM BR 2021]]></title>
+			<description><![CDATA[<p>A segunda edição da Code BEAM BR vai acontecer nos dias 5 e 6 de agosto. A conferência é um dos principais eventos mundiais da comunidade Elixir e Erlang e vai acontecer pela segunda vez no Brasil.<br>
+<br>
+A edição brasileira vai trazer para o país conteúdos geralmente restritos e pouco acessíveis ao público brasileiro. A maioria das palestras será em português e as internacionais terão tradução simultânea. O horário do evento também é pensado para o fuso do Brasil e os ingressos têm um valor bem mais acessível que as edições internacionais.<br>
+<br>
+O evento é uma ótima oportunidade para disseminar conhecimento pela comunidade brasileira, principalmente para quem quer conhecer mais sobre as linguagens.<br>
+<br>
+Além de José Valim, já está confirmada a presença do Erik Shön, diretor da Erlang Solutions, e muitas outras atrações devem ser anunciadas em breve. Para não perder nenhuma, basta seguir a @CodeBEAMBR no Twitter: <a href="https://twitter.com/codebeambr">https://twitter.com/codebeambr</a>.<br>
+<br>
+O Call4Papers, para quem quiser palestrar no evento, fica aberto até o dia 11 de julho e os ingressos já estão à venda pelo site&nbsp;<a href="http://www.codebeambr.com/" target="_blank">www.codebeambr.com</a>.&nbsp;<br>
+<br>
+A organização preparou um cupom especial para quem nos acompanha no Elixir em Foco: 10% de desconto para quem usar o código <strong>ELIXIREMFOCO10</strong> na compra do ingresso.&nbsp;</p>
+<p><br></p>
+<p><strong>Nosso site é </strong><a href="https://elixiremfoco.com/"><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Estamos no Twitter em @elixiremfoco </strong><a href="https://twitter.com/elixiremfoco"><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><a href="mailto:elixiremfoco@gmail.com"><u><strong>elixiremfoco@gmail.com</strong></u></a><strong>.</strong></p>
+<p><strong>Edição do Episódio por: Daniel Leite Pires (Stone).</strong></p>
+<p><strong>Texto de divulgação da Code BEAM BR: Tati Vaz (Stone).</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Code-BEAM-BR-2021-e13jsne</link>
+			<guid isPermaLink="false">702b4b8f-cb9d-4e03-954f-5384c6051675</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Tue, 29 Jun 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/36352174/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-5-28%2F8c1f5353-b1f1-0c79-9dab-ec4401fad0b3.mp3" length="3882190" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;A segunda edição da Code BEAM BR vai acontecer nos dias 5 e 6 de agosto. A conferência é um dos principais eventos mundiais da comunidade Elixir e Erlang e vai acontecer pela segunda vez no Brasil.&lt;br&gt;
+&lt;br&gt;
+A edição brasileira vai trazer para o país conteúdos geralmente restritos e pouco acessíveis ao público brasileiro. A maioria das palestras será em português e as internacionais terão tradução simultânea. O horário do evento também é pensado para o fuso do Brasil e os ingressos têm um valor bem mais acessível que as edições internacionais.&lt;br&gt;
+&lt;br&gt;
+O evento é uma ótima oportunidade para disseminar conhecimento pela comunidade brasileira, principalmente para quem quer conhecer mais sobre as linguagens.&lt;br&gt;
+&lt;br&gt;
+Além de José Valim, já está confirmada a presença do Erik Shön, diretor da Erlang Solutions, e muitas outras atrações devem ser anunciadas em breve. Para não perder nenhuma, basta seguir a @CodeBEAMBR no Twitter: &lt;a href=&quot;https://twitter.com/codebeambr&quot;&gt;https://twitter.com/codebeambr&lt;/a&gt;.&lt;br&gt;
+&lt;br&gt;
+O Call4Papers, para quem quiser palestrar no evento, fica aberto até o dia 11 de julho e os ingressos já estão à venda pelo site&amp;nbsp;&lt;a href=&quot;http://www.codebeambr.com/&quot; target=&quot;_blank&quot;&gt;www.codebeambr.com&lt;/a&gt;.&amp;nbsp;&lt;br&gt;
+&lt;br&gt;
+A organização preparou um cupom especial para quem nos acompanha no Elixir em Foco: 10% de desconto para quem usar o código &lt;strong&gt;ELIXIREMFOCO10&lt;/strong&gt; na compra do ingresso.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é &lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Texto de divulgação da Code BEAM BR: Tati Vaz (Stone).&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:02:41</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode/12866474/12866474-1624918597907-9cebbad132034.jpg"/>
+			<itunes:episodeType>bonus</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[3. Elixir em Produção com Elaine Naomi Watanabe, Engenharia de Software na The RealReal]]></title>
+			<description><![CDATA[<p><strong>Elaine Naomi Watanabe é Engenheira de Software na The RealReal </strong><a href="https://www.therealreal.com/"><u><strong>https://www.therealreal.com/</strong></u></a><strong> , uma empresa que é um dos casos mais conhecidos na comunidade de sucesso de uso do Elixir. Em 2019, José Valim, ainda na Plataformatec, onde Elaine também trabalhou, gravou este vídeo entrevistando Fredrik Björk, CTO da The RealReal &nbsp;sobre a estória da adoção de Elixir lá </strong><a href="https://youtu.be/sTs_4T1ufLY"><u><strong>https://youtu.be/sTs_4T1ufLY</strong></u></a><strong>.</strong></p>
+<p><strong>Entre outras coisas, Eliane contou como a The RealReal se tornou mantenedora de uma biblioteca cujo criador não fez nada por 3 anos. Ela também nos countou sobre como é ser desenvolvedora numa companhia internacional e como foi sua experiência na PlataformaTec.</strong></p>
+<p><strong>Links da Elaine:</strong></p>
+<p><strong>LinkedIn: </strong><a href="https://www.linkedin.com/in/elainenaomi/"><u><strong>https://www.linkedin.com/in/elainenaoi/</strong></u></a></p>
+<p><strong>Twitter: </strong><a href="https://twitter.com/elaine_nw"><u><strong>https://twitter.com/elaine_nw</strong></u></a></p>
+<p><strong>Vagas na The RealReal </strong><a href="http://therealreal.com/careers"><u><strong>http://therealreal.com/careers</strong></u></a></p>
+<p><strong>ElixirLabOrg </strong><a href="https://www.youtube.com/c/ElixirLabOrg/"><u><strong>https://www.youtube.com/c/ElixirLabOrg/</strong></u></a></p>
+<p><strong>Elaine no Emílias </strong><a href="https://anchor.fm/emilias-podcast/episodes/Emlias-Podcast-S01E02---Entrevista-com-Elaine-Naomi-Watanabe-e7rssc"><u><strong>https://anchor.fm/emilias-podcast/episodes/Emlias-Podcast-S01E02---Entrevista-com-Elaine-Naomi-Watanabe-e7rssc</strong></u></a></p>
+<p><br></p>
+<p><strong>Nosso site é </strong><a href="https://elixiremfoco.com/"><u><strong>https://elixiremfoco.com</strong></u></a><strong>.</strong></p>
+<p><strong>Estamos no Twitter em @elixiremfoco </strong><a href="https://twitter.com/elixiremfoco"><u><strong>https://twitter.com/elixiremfoco</strong></u></a><strong>.</strong></p>
+<p><strong>Nosso email é </strong><a href="mailto:elixiremfoco@gmail.com"><u><strong>elixiremfoco@gmail.com</strong></u></a><strong>.</strong></p>
+<p><strong>Edição do Episódio por: Daniel Leite Pires (Stone).</strong></p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/3--Elixir-em-Produo-com-Elaine-Naomi-Watanabe--Engenharia-de-Software-na-The-RealReal-e11pbsk</link>
+			<guid isPermaLink="false">1b4853bf-09e6-47fa-994e-45fc9014b4b1</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 02 Jun 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/34434388/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-28%2Ffdf70f0e-b03e-9fec-f5d3-b38325158f2a.mp3" length="48670391" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;&lt;strong&gt;Elaine Naomi Watanabe é Engenheira de Software na The RealReal &lt;/strong&gt;&lt;a href=&quot;https://www.therealreal.com/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.therealreal.com/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt; , uma empresa que é um dos casos mais conhecidos na comunidade de sucesso de uso do Elixir. Em 2019, José Valim, ainda na Plataformatec, onde Elaine também trabalhou, gravou este vídeo entrevistando Fredrik Björk, CTO da The RealReal &amp;nbsp;sobre a estória da adoção de Elixir lá &lt;/strong&gt;&lt;a href=&quot;https://youtu.be/sTs_4T1ufLY&quot;&gt;&lt;u&gt;&lt;strong&gt;https://youtu.be/sTs_4T1ufLY&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Entre outras coisas, Eliane contou como a The RealReal se tornou mantenedora de uma biblioteca cujo criador não fez nada por 3 anos. Ela também nos countou sobre como é ser desenvolvedora numa companhia internacional e como foi sua experiência na PlataformaTec.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links da Elaine:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;LinkedIn: &lt;/strong&gt;&lt;a href=&quot;https://www.linkedin.com/in/elainenaomi/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.linkedin.com/in/elainenaoi/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Twitter: &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elaine_nw&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elaine_nw&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Vagas na The RealReal &lt;/strong&gt;&lt;a href=&quot;http://therealreal.com/careers&quot;&gt;&lt;u&gt;&lt;strong&gt;http://therealreal.com/careers&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ElixirLabOrg &lt;/strong&gt;&lt;a href=&quot;https://www.youtube.com/c/ElixirLabOrg/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://www.youtube.com/c/ElixirLabOrg/&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Elaine no Emílias &lt;/strong&gt;&lt;a href=&quot;https://anchor.fm/emilias-podcast/episodes/Emlias-Podcast-S01E02---Entrevista-com-Elaine-Naomi-Watanabe-e7rssc&quot;&gt;&lt;u&gt;&lt;strong&gt;https://anchor.fm/emilias-podcast/episodes/Emlias-Podcast-S01E02---Entrevista-com-Elaine-Naomi-Watanabe-e7rssc&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso site é &lt;/strong&gt;&lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;&lt;strong&gt;https://elixiremfoco.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Estamos no Twitter em @elixiremfoco &lt;/strong&gt;&lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;&lt;strong&gt;https://twitter.com/elixiremfoco&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nosso email é &lt;/strong&gt;&lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;&lt;strong&gt;elixiremfoco@gmail.com&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/strong&gt;&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:33:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1622241457793-0a904e0cf1de4.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>3</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[2. Elixir em Produção com Vitor Leal, CTO da Solfácil]]></title>
+			<description><![CDATA[<p>No segundo episódio da série Elixir em Produção, conversamos com Vitor Leal, CTO da Solfácil <a href="https://solfacil.com.br/">https://solfacil.com.br/</a>. Encontre o Vitor no LinkedIn em <a href="https://www.linkedin.com/in/vitorleal/">https://www.linkedin.com/in/vitorleal</a> e no GitHub em <a href="https://github.com/vitorleal">https://github.com/vitorleal</a>. A página Trabalhe Conosco da Solfácil está em <a href="https://landing.solfacil.com.br/trabalhe-conosco">https://landing.solfacil.com.br/trabalhe-conosco</a>.</p>
+<p><br>
+Vitor escreveu este texto sobre a adoção de Elixir em outra empresa em que trabalhou<strong> </strong><a href="https://dev.to/ingresse/adotando-o-elixir-na-ingresse-362m"><u><strong>https://dev.to/ingresse/adotando-o-elixir-na-ingresse-362m</strong></u></a><u><strong>.</strong></u></p>
+<p>Nosso site é <a href="https://elixiremfoco.com/"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+<p><br></p>
+<p>Edição do Episódio por: Daniel Leite Pires (Stone).</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/2--Elixir-em-Produo-com-Vitor-Leal--CTO-da-Solfcil-e101sbf</link>
+			<guid isPermaLink="false">a2cc0c04-ef9e-4a65-a257-da0b8522692d</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 05 May 2021 04:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/32616239/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-1%2Fc9cc289c-40fa-4c7f-f1dd-4ac33d5a320b.mp3" length="44733739" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;No segundo episódio da série Elixir em Produção, conversamos com Vitor Leal, CTO da Solfácil &lt;a href=&quot;https://solfacil.com.br/&quot;&gt;https://solfacil.com.br/&lt;/a&gt;. Encontre o Vitor no LinkedIn em &lt;a href=&quot;https://www.linkedin.com/in/vitorleal/&quot;&gt;https://www.linkedin.com/in/vitorleal&lt;/a&gt; e no GitHub em &lt;a href=&quot;https://github.com/vitorleal&quot;&gt;https://github.com/vitorleal&lt;/a&gt;. A página Trabalhe Conosco da Solfácil está em &lt;a href=&quot;https://landing.solfacil.com.br/trabalhe-conosco&quot;&gt;https://landing.solfacil.com.br/trabalhe-conosco&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;
+Vitor escreveu este texto sobre a adoção de Elixir em outra empresa em que trabalhou&lt;strong&gt; &lt;/strong&gt;&lt;a href=&quot;https://dev.to/ingresse/adotando-o-elixir-na-ingresse-362m&quot;&gt;&lt;u&gt;&lt;strong&gt;https://dev.to/ingresse/adotando-o-elixir-na-ingresse-362m&lt;/strong&gt;&lt;/u&gt;&lt;/a&gt;&lt;u&gt;&lt;strong&gt;.&lt;/strong&gt;&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com/&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Edição do Episódio por: Daniel Leite Pires (Stone).&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:31:03</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1619900343809-d8524906ced92.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>2</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[1. Elixir em Produção com Pedro Castilho, CTO da Comadre]]></title>
+			<description><![CDATA[<p>No primeiro episódio da série Elixir em Produção, conversamos com Pedro Castilho, CTO da Comadre (<a href="http://www.bancodasdiaristas.com/"><u>http://www.bancodasdiaristas.com</u></a><u>)</u>. Encontre o Pedro no Twitter como @coproduto <a href="http://twitter.com/coproduto"><u>http://twitter.com/coproduto</u></a> ou no Telegram em @pedrocastilho <a href="http://t.me/pedrocastilho"><u>http://t.me/pedrocastilho</u></a><u>.</u></p>
+<p><br></p>
+<p>Nosso site é <a href="https://elixiremfoco.com"><u>https://elixiremfoco.com</u></a>.</p>
+<p>Estamos no Twitter em @elixiremfoco <a href="https://twitter.com/elixiremfoco"><u>https://twitter.com/elixiremfoco</u></a>.</p>
+<p>Nosso email é <a href="mailto:elixiremfoco@gmail.com"><u>elixiremfoco@gmail.com</u></a>.</p>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/1--Elixir-em-Produo-com-Pedro-Castilho--CTO-da-Comadre-eu9uj2</link>
+			<guid isPermaLink="false">33e7ef90-62d1-46e4-be28-d774457485bf</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Wed, 07 Apr 2021 03:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/30783522/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-05-01%2F7167cef75e6f8b71a5ee138b75c460e8.m4a" length="25559147" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;No primeiro episódio da série Elixir em Produção, conversamos com Pedro Castilho, CTO da Comadre (&lt;a href=&quot;http://www.bancodasdiaristas.com/&quot;&gt;&lt;u&gt;http://www.bancodasdiaristas.com&lt;/u&gt;&lt;/a&gt;&lt;u&gt;)&lt;/u&gt;. Encontre o Pedro no Twitter como @coproduto &lt;a href=&quot;http://twitter.com/coproduto&quot;&gt;&lt;u&gt;http://twitter.com/coproduto&lt;/u&gt;&lt;/a&gt; ou no Telegram em @pedrocastilho &lt;a href=&quot;http://t.me/pedrocastilho&quot;&gt;&lt;u&gt;http://t.me/pedrocastilho&lt;/u&gt;&lt;/a&gt;&lt;u&gt;.&lt;/u&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Nosso site é &lt;a href=&quot;https://elixiremfoco.com&quot;&gt;&lt;u&gt;https://elixiremfoco.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em @elixiremfoco &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;&lt;u&gt;https://twitter.com/elixiremfoco&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nosso email é &lt;a href=&quot;mailto:elixiremfoco@gmail.com&quot;&gt;&lt;u&gt;elixiremfoco@gmail.com&lt;/u&gt;&lt;/a&gt;.&lt;/p&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:26:20</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1617653061757-7889646b759ea.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Trailer do Elixir em Foco]]></title>
+			<description><![CDATA[<p>Acesse nosso site em <a href="http://elixiremfoco.github.io/">http://elixiremfoco.github.io/</a>.</p>
+<p>Estamos no Twitter em <a href="https://twitter.com/elixiremfoco">https://twitter.com/elixiremfoco</a>.</p>
+<p>Nossa equipe:</p>
+<ul>
+ <li>Adolfo Neto - Criador e Host &nbsp;- Adolfo Neto ensina, escreve, fala (em podcasts), pesquisa e desenvolve em Elixir e Erlang. Não necessariamente nesta ordem. Atualmente professor na UTFPR.</li>
+ <li>Herminio Torres - Host - Herminio Torres, desenvolvedor de software. Elixir paga meus boletos atualmente. Sou criador e idealizador do Elixercism - Grupo que ensina elixir por meio dos exercícios do exercism.io. Entusiasta de bons cafés.</li>
+ <li>Matheus Pessanha - Host - Cientista da Computação em formação; fascinado por programação funcional; cozinho bem, mas isso não vem ao caso; responsável por inserir Elixir no estágio.</li>
+ <li>Cristine Guadelupe - Host - Viciada em café, louca dos gatos e entusiasta de LiveView.</li>
+</ul>
+<p>Links do episódio:</p>
+<ul>
+ <li><a href="https://pragprog.com/titles/elixir16/programming-elixir-1-6/">https://pragprog.com/titles/elixir16/programming-elixir-1-6/</a></li>
+ <li><a href="https://erlef.org/wg/education">https://erlef.org/wg/education</a></li>
+ <li><a href="https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/">https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/</a></li>
+ <li><a href="https://exercism.io/my/tracks/elixir">https://exercism.io/my/tracks/elixir</a></li>
+  <li><a href="https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5">https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5</a></li>
+  <li><a href="https://pragmaticstudio.com/">https://pragmaticstudio.com/</a></li>
+  <li><a href="https://grox.io/">https://grox.io/</a></li>
+  <li>Elixir Chatt <a href="https://grox.io/mentor_programs">https://grox.io/mentor_programs</a></li>
+</ul>
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message]]></description>
+			<link>https://anchor.fm/elixiremfoco/episodes/Trailer-do-Elixir-em-Foco-erjhfk</link>
+			<guid isPermaLink="false">9e838cdc-b4e2-4f15-8a2b-100a99789094</guid>
+			<dc:creator><![CDATA[Elixir em Foco]]></dc:creator>
+			<pubDate>Tue, 30 Mar 2021 14:34:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/4d4944e8/podcast/play/27952052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-03-30%2F9e965bcc30e411602d5689a2d69991f3.m4a" length="9498100" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;Acesse nosso site em &lt;a href=&quot;http://elixiremfoco.github.io/&quot;&gt;http://elixiremfoco.github.io/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Estamos no Twitter em &lt;a href=&quot;https://twitter.com/elixiremfoco&quot;&gt;https://twitter.com/elixiremfoco&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Nossa equipe:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;Adolfo Neto - Criador e Host &amp;nbsp;- Adolfo Neto ensina, escreve, fala (em podcasts), pesquisa e desenvolve em Elixir e Erlang. Não necessariamente nesta ordem. Atualmente professor na UTFPR.&lt;/li&gt;
+ &lt;li&gt;Herminio Torres - Host - Herminio Torres, desenvolvedor de software. Elixir paga meus boletos atualmente. Sou criador e idealizador do Elixercism - Grupo que ensina elixir por meio dos exercícios do exercism.io. Entusiasta de bons cafés.&lt;/li&gt;
+ &lt;li&gt;Matheus Pessanha - Host - Cientista da Computação em formação; fascinado por programação funcional; cozinho bem, mas isso não vem ao caso; responsável por inserir Elixir no estágio.&lt;/li&gt;
+ &lt;li&gt;Cristine Guadelupe - Host - Viciada em café, louca dos gatos e entusiasta de LiveView.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Links do episódio:&lt;/p&gt;
+&lt;ul&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&quot;&gt;https://pragprog.com/titles/elixir16/programming-elixir-1-6/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://erlef.org/wg/education&quot;&gt;https://erlef.org/wg/education&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/&quot;&gt;https://pragprog.com/titles/cdc-elixir/learn-functional-programming-with-elixir/&lt;/a&gt;&lt;/li&gt;
+ &lt;li&gt;&lt;a href=&quot;https://exercism.io/my/tracks/elixir&quot;&gt;https://exercism.io/my/tracks/elixir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5&quot;&gt;https://www.phoenixframework.org/blog/build-a-real-time-twitter-clone-in-15-minutes-with-live-view-and-phoenix-1-5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pragmaticstudio.com/&quot;&gt;https://pragmaticstudio.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://grox.io/&quot;&gt;https://grox.io/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Elixir Chatt &lt;a href=&quot;https://grox.io/mentor_programs&quot;&gt;https://grox.io/mentor_programs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+--- 
+
+Send in a voice message: https://anchor.fm/elixiremfoco/message</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>00:09:47</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/production/podcast_uploaded_episode400/12866474/12866474-1617109494510-0cebec64e50d4.jpg"/>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
 
   </channel>
 </rss>
