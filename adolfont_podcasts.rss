@@ -7,7 +7,8 @@
         <itunes:email>adolfo.usp@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:author>Adolfo Neto</itunes:author>
-    <description>Professor da UTFPR.</description>
+    <description>Sou professor da UTFPR e responsável ou corresponsável por vários podcasts. 
+	    Este feed é uma tentativa de listar todos os novos episódios dos meus podcasts. Atualizado a partir de 2023. </description>
     <itunes:image href="https://adolfont.github.io/images/AdolfoNeto_240x240.jpg"/>
     <language>en-us</language>
     <link>https://adolfont.github.io/</link>
