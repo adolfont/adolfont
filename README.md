@@ -37,7 +37,7 @@ My webpage is at [adolfont.github.io/](http://adolfont.github.io/).
 
 
 🔊 If you can understand Portuguese:
-  - In 2023, I was interviewed by Nielda Karla at [freeCodeCamp podcast em portugues]: [Ep. 14 Adolfo Neto - Carreira Acadêmica e Podcasts de Tecnologia](https://www.freecodecamp.org/portuguese/news/podcast-ep14/)
+  - In 2023, I was interviewed by Nielda Karla at "freeCodeCamp podcast em português": [Ep. 14 Adolfo Neto - Carreira Acadêmica e Podcasts de Tecnologia](https://www.freecodecamp.org/portuguese/news/podcast-ep14/)
   - I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto](https://www.youtube.com/watch?v=enHShUFPWIY).
   - I was interviewed at Pilha Cheia podcast  in [Ensinando Programação na Academia](https://open.spotify.com/episode/4Nvp8huz7inO0O7ogGSJkO).
 
