@@ -6,7 +6,7 @@ Hi, I am an Associate Professor at the Federal University of Technology - Paran√
   <a href="https://www.linkedin.com/in/adolfont">
     <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn">
   </a>
-  &nbsp;
+  &emsp;
   <a href="https://bsky.app/profile/adolfont.github.io">
         <img width=25 src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/272px-Bluesky_Logo.svg.png" alt="Bluesky">
   </a>
