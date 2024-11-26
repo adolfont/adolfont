@@ -22,7 +22,7 @@ I am also:
   - [Fronteiras da Engenharia de Software](https://fronteirases.github.io)
   - [Hello, Erlang!](https://helloerlang.github.io/)
 
-Follow me on Bluesky: https://adolfont.bsky.social
+Follow me on Bluesky: https://bsky.app/profile/adolfont.github.io
 
 Follow me on Twitter: https://twitter.com/adolfont
 
