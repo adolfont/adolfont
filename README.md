@@ -12,6 +12,7 @@ Hi, I am an Associate Professor at the Federal University of Technology - ParanÃ
   </a>
 </p>
 
+My webpage is [adolfont.github.io/](http://adolfont.github.io/).
 
 I am also:
 - an Elixir enthusiast, member of the Erlang Ecosystem Foundation
@@ -29,7 +30,6 @@ Follow me on Linkedin: https://www.linkedin.com/in/adolfont/
 Follow me on Twitter: https://twitter.com/adolfont
 
 
-My webpage is at [adolfont.github.io/](http://adolfont.github.io/).
 
 ðŸ”Š In 2021, I was a guest of the Elixir Mix podcast: [Learning Erlang with Adolfo Neto - EMx 165](https://topenddevs.com/podcasts/elixir-mix/episodes/learning-erlang-with-adolfo-neto-emx-165).
 
