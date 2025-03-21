@@ -24,6 +24,8 @@ I am also:
 
 Follow me on Bluesky: https://bsky.app/profile/adolfont.github.io
 
+Follow me on Linkedin: https://www.linkedin.com/in/adolfont/
+
 Follow me on Twitter: https://twitter.com/adolfont
 
 
