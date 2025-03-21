@@ -16,11 +16,11 @@ Hi, I am an Associate Professor at the Federal University of Technology - Paran�
 I am also:
 - an Elixir enthusiast, member of the Erlang Ecosystem Foundation
 - podcaster
-  - [Professor Adolfo Neto](https://anchor.fm/adolfont)
-  - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
-  - [Elixir em Foco](http://elixiremfoco.com/)
   - [Fronteiras da Engenharia de Software](https://fronteirases.github.io)
-  - [Hello, Erlang!](https://helloerlang.github.io/)
+  - [Elixir em Foco](http://elixiremfoco.com/)
+  - [Emílias Podcast - Mulheres na Computação](https://anchor.fm/emilias-podcast)
+  - [Professor Adolfo Neto](https://anchor.fm/adolfont) (on pause)
+  - [Hello, Erlang!](https://helloerlang.github.io/) (on pause)
 
 Follow me on Bluesky: https://bsky.app/profile/adolfont.github.io
 
