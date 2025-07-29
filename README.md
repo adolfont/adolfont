@@ -49,6 +49,11 @@ Follow me on Twitter: https://twitter.com/adolfont
   - I was interviewed at Pilha Cheia podcast  in [Ensinando Programação na Academia](https://open.spotify.com/episode/4Nvp8huz7inO0O7ogGSJkO).
 
 
+<h2>My Bluesky posts</h2>
+<ul>
+  <li><a href="https://bsky.app/profile/adolfont.github.io/post/3lux4k2pv3k2r">A post</a></li>
+  <li><a href="https://bsky.app/profile/adolfont.github.io">See my profile</a></li>
+</ul>
 
 
  
