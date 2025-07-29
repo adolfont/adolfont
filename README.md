@@ -48,6 +48,25 @@ Follow me on Twitter: https://twitter.com/adolfont
   - I was interviewed by Ruben Salomao in [RS Entrevista Professor Adolfo Neto](https://www.youtube.com/watch?v=enHShUFPWIY).
   - I was interviewed at Pilha Cheia podcast  in [Ensinando Programação na Academia](https://open.spotify.com/episode/4Nvp8huz7inO0O7ogGSJkO).
 
+<script type="module">
+  import { BskyAgent } from 'https://esm.sh/@atproto/api';
+
+  const agent = new BskyAgent({ service: 'https://bsky.social' });
+  await agent.login({ identifier: 'adolfont.github.io', password: 'hjvz-bnsp-djci-jzy6' });
+
+  const timeline = await agent.getAuthorFeed({ actor: 'adolfont.github.io' });
+  const container = document.getElementById('bsky-feed');
+
+  timeline.data.feed.forEach(post => {
+    const item = document.createElement('div');
+    item.textContent = post.post.record.text;
+    container.appendChild(item);
+  });
+</script>
+
+<div id="bsky-feed">Loading Bluesky posts…</div>
+
+
  
 
 <!--
