@@ -49,6 +49,8 @@ Follow me on Twitter: https://twitter.com/adolfont
   - I was interviewed at Pilha Cheia podcast  in [Ensinando Programação na Academia](https://open.spotify.com/episode/4Nvp8huz7inO0O7ogGSJkO).
 
 
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:fodyg35g25joa5rpplt4y43g/app.bsky.feed.post/3lux4k2pv3k2r" data-bluesky-cid="bafyreiaatdzuuy474ircdzpuram3uxn62ki3mi7c5h5a3d6th657nqd434" data-bluesky-embed-color-mode="system"><p lang="en">A Brazilian who worked at Microsoft said the opposite: they’re laying off lots of people because they’re spending too much on AI, and expect to keep spending.<br><br><a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lux4k2pv3k2r?ref_src=embed">[image or embed]</a></p>&mdash; Adolfo Neto (<a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g?ref_src=embed">@adolfont.github.io</a>) <a href="https://bsky.app/profile/did:plc:fodyg35g25joa5rpplt4y43g/post/3lux4k2pv3k2r?ref_src=embed">July 27, 2025 at 9:50 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
 <h2>My Bluesky posts</h2>
 <ul>
   <li><a href="https://bsky.app/profile/adolfont.github.io/post/3lux4k2pv3k2r">A post</a></li>
